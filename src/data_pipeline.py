@@ -183,13 +183,23 @@ def read_uploaded_file(uploaded_file: Any, *args: Any, **kwargs: Any) -> pd.Data
 
     if name.endswith((".xlsx", ".xls")):
         try:
-            return pd.read_excel(io.BytesIO(payload))
+            raw_df = pd.read_excel(io.BytesIO(payload))
         except Exception as exc:
             raise ValueError(f"Không thể đọc file Excel: {exc}") from exc
+    else:
+        # CSV is the default for unknown extensions so existing uploads continue
+        # to work even when a browser supplies a generic MIME type.
+        raw_df = read_csv_flexible(payload)
 
-    # CSV is the default for unknown extensions so existing uploads continue
-    # to work even when a browser supplies a generic MIME type.
-    return read_csv_flexible(payload)
+    # Normalize names immediately so callers that inspect the loaded DataFrame
+    # can work with the canonical schema before the deeper validation step.
+    # This is intentionally idempotent: prepare_data() can safely run again.
+    normalized_df, _ = standardize_columns(raw_df)
+    if "hour" not in normalized_df.columns:
+        normalized_df["hour"] = np.nan
+    if "device" not in normalized_df.columns:
+        normalized_df["device"] = TEXT_DEFAULT
+    return normalized_df
 
 
 
