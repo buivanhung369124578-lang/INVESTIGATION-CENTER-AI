@@ -164,11 +164,20 @@ def read_uploaded_file(uploaded_file: Any, *args: Any, **kwargs: Any) -> pd.Data
     if uploaded_file is None:
         raise ValueError("Chưa chọn file dữ liệu.")
 
+    # The current app may pass either a Streamlit UploadedFile/file-like object
+    # OR raw bytes plus an optional filename as the second positional argument.
+    # Support both forms so uploads remain compatible with older app code.
     name = str(getattr(uploaded_file, "name", "")).lower()
-    if hasattr(uploaded_file, "getvalue"):
+    if not name and args and isinstance(args[0], str):
+        name = args[0].lower()
+
+    if isinstance(uploaded_file, (bytes, bytearray, memoryview)):
+        payload = bytes(uploaded_file)
+    elif hasattr(uploaded_file, "getvalue"):
         payload = uploaded_file.getvalue()
     else:
         payload = uploaded_file.read()
+
     if isinstance(payload, str):
         payload = payload.encode("utf-8")
 
