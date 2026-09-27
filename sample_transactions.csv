@@ -1,0 +1,2001 @@
+﻿transaction_id,customer_id,date,hour,amount,category,merchant,location,payment_method,device
+TX100000,1018,2026-03-21,12,460900.0,Hóa đơn,Cửa hàng trực tuyến,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100001,1155,2026-01-06,20,129700.0,Y tế,Siêu thị,Hà Nội,Tiền mặt,Thiết bị mới
+TX100002,1131,2026-02-05,7,32300.0,Hóa đơn,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100003,1088,2026-02-11,14,63900.0,Mua sắm,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX100004,1087,2026-03-13,19,595100.0,Ăn uống,Cửa hàng điện tử,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100005,1172,2026-01-12,22,166100.0,Hóa đơn,Nhà hàng,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100006,1018,2026-02-09,11,130100.0,Giải trí,Rạp chiếu phim,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100007,1140,2026-01-14,17,694700.0,Hóa đơn,Dịch vụ tiện ích,Hà Nội,Ví điện tử,Thiết bị mới
+TX100008,1041,2026-03-12,10,533400.0,Điện tử,Nhà hàng,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100009,1019,2026-02-26,8,223800.0,Giải trí,Nhà thuốc,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100010,1106,2026-02-14,12,179200.0,Hóa đơn,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100011,1196,2026-02-05,21,200600.0,Ăn uống,Cửa hàng điện tử,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX100012,1148,2026-01-14,18,257900.0,Hóa đơn,Rạp chiếu phim,Đà Nẵng,Thẻ,Thiết bị mới
+TX100013,1153,2026-03-24,14,674300.0,Mua sắm,Rạp chiếu phim,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100014,1144,2026-02-28,11,295700.0,Y tế,Cửa hàng điện tử,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100015,1158,2026-01-29,9,365700.0,Mua sắm,Taxi,Hà Nội,Thẻ,Thiết bị mới
+TX100016,1103,2026-02-07,11,498800.0,Điện tử,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100017,1026,2026-03-07,9,97000.0,Di chuyển,Nhà hàng,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100018,1168,2026-03-06,9,373200.0,Hóa đơn,Cửa hàng điện tử,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100019,1091,2026-02-11,18,179000.0,Mua sắm,Taxi,Hà Nội,Tiền mặt,Thiết bị mới
+TX100020,1101,2026-01-28,9,37800.0,Mua sắm,Nhà thuốc,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100021,1075,2026-03-01,7,49600.0,Điện tử,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100022,1037,2026-03-01,15,107900.0,Mua sắm,Cửa hàng điện tử,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100023,1186,2026-02-23,11,319100.0,Hóa đơn,Nhà thuốc,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100024,1157,2026-01-07,14,238200.0,Điện tử,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100025,1129,2026-02-12,9,250300.0,Giải trí,Taxi,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100026,1081,2026-02-25,10,862000.0,Ăn uống,Nhà thuốc,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100027,1165,2026-03-27,14,90500.0,Di chuyển,Nhà hàng,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100028,1110,2026-02-17,18,215800.0,Di chuyển,Siêu thị,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100029,1089,2026-01-31,13,272300.0,Mua sắm,Cửa hàng trực tuyến,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100030,1091,2026-02-20,15,131400.0,Mua sắm,Dịch vụ tiện ích,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100031,1046,2026-01-16,15,224400.0,Hóa đơn,Nhà hàng,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100032,1019,2026-01-09,11,71800.0,Di chuyển,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100033,1111,2026-03-03,11,590300.0,Di chuyển,Cửa hàng điện tử,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100034,1178,2026-03-30,13,136500.0,Di chuyển,Siêu thị,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100035,1013,2026-03-18,7,912000.0,Di chuyển,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100036,1172,2026-02-22,17,215100.0,Mua sắm,Taxi,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100037,1166,2026-01-04,16,451800.0,Hóa đơn,Siêu thị,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100038,1056,2026-03-30,11,211900.0,Điện tử,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100039,1127,2026-02-10,12,215300.0,Hóa đơn,Nhà hàng,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100040,1034,2026-01-27,12,146200.0,Giải trí,Siêu thị,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100041,1152,2026-03-22,17,239100.0,Điện tử,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100042,1141,2026-03-09,19,274900.0,Giải trí,Siêu thị,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100043,1071,2026-03-09,8,127100.0,Mua sắm,Dịch vụ tiện ích,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100044,1014,2026-01-25,13,201600.0,Di chuyển,Rạp chiếu phim,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100045,1195,2026-03-31,7,143500.0,Hóa đơn,Rạp chiếu phim,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX100046,1090,2026-02-10,14,1100400.0,Hóa đơn,Rạp chiếu phim,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100047,1179,2026-02-17,10,206600.0,Mua sắm,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100048,1136,2026-03-09,12,648900.0,Ăn uống,Cửa hàng điện tử,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100049,1156,2026-03-01,14,191800.0,Di chuyển,Siêu thị,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100050,1152,2026-01-16,12,263800.0,Điện tử,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX100051,1039,2026-01-28,13,87200.0,Y tế,Nhà thuốc,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100052,1073,2026-02-02,19,160900.0,Y tế,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX100053,1094,2026-03-27,19,254900.0,Mua sắm,Nhà hàng,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100054,1100,2026-03-06,7,667700.0,Di chuyển,Nhà hàng,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100055,1009,2026-02-02,13,257000.0,Giải trí,Siêu thị,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100056,1110,2026-03-08,20,579500.0,Hóa đơn,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX100057,1031,2026-03-08,15,344500.0,Di chuyển,Dịch vụ tiện ích,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100058,1149,2026-02-05,10,687300.0,Di chuyển,Rạp chiếu phim,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX100059,1137,2026-02-06,16,211100.0,Ăn uống,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100060,1185,2026-03-22,9,1172400.0,Điện tử,Cửa hàng điện tử,Cần Thơ,Tiền mặt,Thiết bị mới
+TX100061,1149,2026-02-20,7,156600.0,Điện tử,Siêu thị,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100062,1074,2026-01-14,17,128700.0,Ăn uống,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100063,1194,2026-03-06,15,94300.0,Di chuyển,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100064,1083,2026-02-23,19,1124800.0,Hóa đơn,Dịch vụ tiện ích,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100065,1066,2026-02-15,12,390400.0,Y tế,Taxi,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100066,1182,2026-03-07,20,174100.0,Điện tử,Siêu thị,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100067,1075,2026-03-23,13,527400.0,Di chuyển,Nhà hàng,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX100068,1016,2026-01-30,18,356000.0,Y tế,Nhà thuốc,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100069,1094,2026-02-07,8,871200.0,Điện tử,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100070,1160,2026-01-18,8,74500.0,Y tế,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100071,1038,2026-02-28,19,182700.0,Di chuyển,Rạp chiếu phim,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100072,1093,2026-02-06,20,159200.0,Y tế,Rạp chiếu phim,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX100073,1026,2026-01-31,22,55300.0,Di chuyển,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100074,1138,2026-03-04,12,462100.0,Ăn uống,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100075,1096,2026-02-06,7,182100.0,Y tế,Siêu thị,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100076,1067,2026-02-11,22,369200.0,Y tế,Siêu thị,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100077,1046,2026-02-09,16,1147600.0,Di chuyển,Dịch vụ tiện ích,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100078,1113,2026-01-24,10,171800.0,Hóa đơn,Nhà hàng,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX100079,1134,2026-01-12,19,163800.0,Di chuyển,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100080,1189,2026-03-16,21,239100.0,Ăn uống,Nhà hàng,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100081,1088,2026-01-09,11,439100.0,Điện tử,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100082,1033,2026-01-30,19,148000.0,Ăn uống,Rạp chiếu phim,Hà Nội,Thẻ,Thiết bị mới
+TX100083,1167,2026-03-02,19,141500.0,Hóa đơn,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100084,1126,2026-01-12,15,461100.0,Ăn uống,Taxi,Hải Phòng,Ví điện tử,Thiết bị mới
+TX100085,1141,2026-02-28,17,286800.0,Giải trí,Siêu thị,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100086,1020,2026-03-07,11,52600.0,Điện tử,Siêu thị,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100087,1063,2026-03-01,21,93300.0,Giải trí,Dịch vụ tiện ích,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100088,1154,2026-01-28,22,629200.0,Giải trí,Siêu thị,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100089,1167,2026-01-02,22,291500.0,Y tế,Rạp chiếu phim,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100090,1088,2026-03-21,18,129000.0,Điện tử,Taxi,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100091,1161,2026-01-30,7,195300.0,Điện tử,Nhà hàng,Hà Nội,Tiền mặt,Thiết bị mới
+TX100092,1169,2026-03-14,12,222000.0,Mua sắm,Dịch vụ tiện ích,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100093,1078,2026-01-18,14,368200.0,Hóa đơn,Dịch vụ tiện ích,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100094,1180,2026-01-15,22,85000.0,Y tế,Rạp chiếu phim,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX100095,1058,2026-03-12,15,122100.0,Di chuyển,Nhà hàng,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100096,1048,2026-03-26,15,266300.0,Giải trí,Dịch vụ tiện ích,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100097,1137,2026-03-19,9,205200.0,Ăn uống,Nhà thuốc,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100098,1128,2026-03-09,19,328300.0,Điện tử,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100099,1028,2026-01-23,12,93000.0,Giải trí,Nhà thuốc,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100100,1167,2026-03-24,8,282500.0,Y tế,Rạp chiếu phim,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100101,1040,2026-03-02,22,472400.0,Y tế,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100102,1161,2026-01-16,10,309300.0,Mua sắm,Cửa hàng điện tử,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX100103,1002,2026-01-12,7,242500.0,Hóa đơn,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100104,1160,2026-03-20,8,205700.0,Điện tử,Nhà hàng,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100105,1158,2026-01-25,14,122600.0,Mua sắm,Cửa hàng điện tử,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100106,1157,2026-03-10,8,209200.0,Y tế,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100107,1133,2026-01-13,20,531400.0,Di chuyển,Nhà hàng,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100108,1095,2026-01-26,15,202400.0,Giải trí,Siêu thị,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100109,1142,2026-01-26,12,118000.0,Hóa đơn,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX100110,1056,2026-01-26,7,155900.0,Giải trí,Cửa hàng điện tử,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX100111,1157,2026-03-02,14,253200.0,Y tế,Dịch vụ tiện ích,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100112,1112,2026-03-24,9,169400.0,Di chuyển,Dịch vụ tiện ích,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100113,1092,2026-03-23,22,309000.0,Mua sắm,Siêu thị,Cần Thơ,Ví điện tử,Thiết bị mới
+TX100114,1102,2026-03-08,11,317200.0,Di chuyển,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100115,1114,2026-01-19,14,409900.0,Giải trí,Taxi,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100116,1008,2026-03-28,7,595900.0,Y tế,Taxi,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100117,1028,2026-02-18,9,441700.0,Y tế,Cửa hàng trực tuyến,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100118,1050,2026-02-19,10,114400.0,Di chuyển,Nhà hàng,Hà Nội,Thẻ,Thiết bị mới
+TX100119,1023,2026-03-05,7,116900.0,Điện tử,Cửa hàng điện tử,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100120,1088,2026-03-11,18,208600.0,Ăn uống,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100121,1134,2026-03-27,22,160400.0,Ăn uống,Taxi,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100122,1131,2026-02-22,22,99200.0,Ăn uống,Siêu thị,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100123,1095,2026-02-24,11,161500.0,Điện tử,Nhà thuốc,Cần Thơ,Tiền mặt,Thiết bị mới
+TX100124,1172,2026-03-09,19,157800.0,Mua sắm,Taxi,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100125,1114,2026-01-23,15,137500.0,Giải trí,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100126,1016,2026-01-28,7,176400.0,Y tế,Rạp chiếu phim,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100127,1153,2026-02-26,8,502000.0,Y tế,Nhà hàng,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100128,1115,2026-01-06,15,252900.0,Điện tử,Dịch vụ tiện ích,Cần Thơ,Thẻ,Thiết bị mới
+TX100129,1127,2026-01-29,13,1241300.0,Ăn uống,Nhà thuốc,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100130,1114,2026-03-06,7,247900.0,Di chuyển,Taxi,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX100131,1111,2026-03-29,21,179600.0,Hóa đơn,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX100132,1019,2026-02-16,18,220600.0,Giải trí,Nhà hàng,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100133,1112,2026-02-05,15,263300.0,Giải trí,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100134,1159,2026-02-09,22,298400.0,Hóa đơn,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100135,1061,2026-03-03,22,941400.0,Di chuyển,Cửa hàng trực tuyến,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100136,1121,2026-02-19,22,121700.0,Ăn uống,Nhà hàng,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX100137,1007,2026-01-03,11,401400.0,Hóa đơn,Rạp chiếu phim,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX100138,1070,2026-02-18,21,254400.0,Mua sắm,Nhà hàng,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX100139,1088,2026-02-06,15,73200.0,Hóa đơn,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100140,1197,2026-03-05,18,377300.0,Y tế,Cửa hàng điện tử,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100141,1043,2026-03-20,20,534300.0,Hóa đơn,Siêu thị,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX100142,1056,2026-03-28,9,120700.0,Giải trí,Nhà hàng,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100143,1082,2026-02-24,14,218600.0,Ăn uống,Cửa hàng trực tuyến,Cần Thơ,Ví điện tử,Thiết bị mới
+TX100144,1199,2026-02-02,9,65800.0,Giải trí,Dịch vụ tiện ích,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100145,1171,2026-02-09,11,91100.0,Hóa đơn,Nhà hàng,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100146,1007,2026-01-16,13,458200.0,Ăn uống,Cửa hàng điện tử,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100147,1047,2026-03-26,20,158700.0,Mua sắm,Siêu thị,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100148,1165,2026-03-18,20,101200.0,Y tế,Cửa hàng điện tử,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100149,1012,2026-03-18,13,258300.0,Điện tử,Dịch vụ tiện ích,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100150,1172,2026-01-30,12,152600.0,Hóa đơn,Siêu thị,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100151,1057,2026-01-29,15,158200.0,Điện tử,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100152,1184,2026-03-19,21,369100.0,Mua sắm,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100153,1059,2026-02-19,22,97600.0,Di chuyển,Cửa hàng trực tuyến,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100154,1087,2026-03-05,10,116700.0,Điện tử,Cửa hàng trực tuyến,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100155,1133,2026-02-14,9,245100.0,Mua sắm,Rạp chiếu phim,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100156,1026,2026-02-09,18,433600.0,Giải trí,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100157,1112,2026-02-26,11,523400.0,Mua sắm,Rạp chiếu phim,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100158,1102,2026-03-15,10,138100.0,Di chuyển,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100159,1157,2026-01-31,7,424000.0,Hóa đơn,Cửa hàng trực tuyến,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100160,1200,2026-03-14,13,127100.0,Di chuyển,Cửa hàng trực tuyến,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100161,1133,2026-01-22,13,790000.0,Điện tử,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100162,1082,2026-02-06,16,99500.0,Điện tử,Nhà thuốc,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100163,1082,2026-03-24,10,557600.0,Hóa đơn,Nhà hàng,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100164,1084,2026-03-27,18,138900.0,Hóa đơn,Cửa hàng trực tuyến,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100165,1163,2026-03-25,17,900500.0,Ăn uống,Cửa hàng điện tử,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100166,1065,2026-01-29,14,332800.0,Mua sắm,Rạp chiếu phim,Đà Nẵng,Thẻ,Thiết bị mới
+TX100167,1034,2026-03-17,9,108000.0,Ăn uống,Nhà hàng,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100168,1067,2026-03-26,15,152600.0,Y tế,Nhà thuốc,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX100169,1005,2026-03-30,17,380100.0,Mua sắm,Nhà hàng,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100170,1022,2026-01-02,12,459700.0,Di chuyển,Nhà hàng,Cần Thơ,Ví điện tử,Thiết bị mới
+TX100171,1019,2026-03-09,11,209400.0,Y tế,Taxi,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100172,1155,2026-03-31,15,227000.0,Giải trí,Rạp chiếu phim,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100173,1145,2026-03-10,12,374100.0,Giải trí,Nhà hàng,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100174,1140,2026-01-21,13,241300.0,Ăn uống,Nhà thuốc,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100175,1093,2026-03-10,12,89000.0,Hóa đơn,Nhà hàng,Hải Phòng,Ví điện tử,Thiết bị mới
+TX100176,1144,2026-01-10,11,124500.0,Hóa đơn,Nhà thuốc,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100177,1033,2026-02-13,18,259400.0,Di chuyển,Siêu thị,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100178,1181,2026-02-26,14,515200.0,Y tế,Taxi,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100179,1101,2026-02-11,14,681900.0,Điện tử,Rạp chiếu phim,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100180,1188,2026-03-04,17,379700.0,Mua sắm,Cửa hàng trực tuyến,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100181,1031,2026-01-22,12,269000.0,Di chuyển,Dịch vụ tiện ích,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100182,1100,2026-02-24,8,371600.0,Di chuyển,Rạp chiếu phim,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX100183,1140,2026-02-28,20,138000.0,Y tế,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100184,1100,2026-02-27,7,197600.0,Ăn uống,Taxi,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100185,1090,2026-01-27,16,123600.0,Điện tử,Nhà thuốc,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100186,1034,2026-01-28,11,91800.0,Y tế,Rạp chiếu phim,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100187,1077,2026-01-24,10,277900.0,Hóa đơn,Cửa hàng trực tuyến,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100188,1048,2026-02-11,7,250500.0,Giải trí,Rạp chiếu phim,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100189,1061,2026-02-22,21,356000.0,Điện tử,Cửa hàng điện tử,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100190,1137,2026-02-02,13,322400.0,Y tế,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100191,1127,2026-02-06,12,260700.0,Mua sắm,Rạp chiếu phim,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100192,1122,2026-01-26,18,324800.0,Ăn uống,Nhà thuốc,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100193,1073,2026-01-20,7,213500.0,Giải trí,Nhà thuốc,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100194,1192,2026-03-01,16,293700.0,Mua sắm,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100195,1018,2026-03-15,14,132300.0,Ăn uống,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100196,1069,2026-01-27,15,285000.0,Điện tử,Nhà hàng,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100197,1024,2026-03-19,8,351300.0,Hóa đơn,Cửa hàng trực tuyến,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100198,1068,2026-02-21,22,137700.0,Giải trí,Cửa hàng điện tử,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100199,1193,2026-01-16,10,228100.0,Mua sắm,Cửa hàng trực tuyến,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX100200,1074,2026-02-02,17,142200.0,Ăn uống,Nhà thuốc,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100201,1182,2026-01-01,18,152200.0,Ăn uống,Taxi,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100202,1100,2026-01-04,12,100100.0,Di chuyển,Nhà hàng,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100203,1140,2026-01-31,9,533600.0,Ăn uống,Siêu thị,Hải Phòng,Tiền mặt,Thiết bị mới
+TX100204,1092,2026-02-10,11,463900.0,Di chuyển,Dịch vụ tiện ích,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100205,1054,2026-03-13,19,320500.0,Di chuyển,Taxi,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100206,1153,2026-01-13,21,874900.0,Hóa đơn,Dịch vụ tiện ích,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100207,1194,2026-03-17,21,192700.0,Giải trí,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100208,1053,2026-01-22,10,1836900.0,Di chuyển,Cửa hàng trực tuyến,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100209,1156,2026-01-13,16,187600.0,Hóa đơn,Siêu thị,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100210,1053,2026-03-04,9,263000.0,Ăn uống,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100211,1144,2026-03-11,18,166500.0,Di chuyển,Cửa hàng điện tử,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100212,1158,2026-02-24,13,285500.0,Điện tử,Nhà hàng,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100213,1090,2026-01-11,18,394900.0,Điện tử,Rạp chiếu phim,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100214,1148,2026-01-11,17,203100.0,Hóa đơn,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX100215,1055,2026-02-05,22,763100.0,Điện tử,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX100216,1016,2026-02-10,14,260100.0,Hóa đơn,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100217,1020,2026-03-31,12,265900.0,Ăn uống,Cửa hàng trực tuyến,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100218,1090,2026-01-26,15,116400.0,Điện tử,Nhà hàng,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX100219,1181,2026-01-18,9,294900.0,Di chuyển,Dịch vụ tiện ích,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100220,1026,2026-03-27,8,200300.0,Giải trí,Cửa hàng trực tuyến,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100221,1092,2026-01-14,15,143700.0,Giải trí,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100222,1141,2026-01-03,20,127800.0,Di chuyển,Nhà thuốc,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100223,1041,2026-02-08,15,1427800.0,Y tế,Rạp chiếu phim,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100224,1145,2026-02-06,19,182900.0,Hóa đơn,Rạp chiếu phim,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX100225,1062,2026-02-25,9,79300.0,Di chuyển,Dịch vụ tiện ích,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100226,1162,2026-03-20,14,134900.0,Di chuyển,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100227,1116,2026-03-25,16,212200.0,Y tế,Taxi,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100228,1110,2026-01-27,12,322600.0,Mua sắm,Cửa hàng điện tử,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX100229,1036,2026-03-30,7,324400.0,Ăn uống,Cửa hàng trực tuyến,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100230,1093,2026-02-26,8,353300.0,Điện tử,Siêu thị,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100231,1172,2026-01-07,21,140100.0,Di chuyển,Rạp chiếu phim,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100232,1004,2026-03-26,16,279200.0,Giải trí,Rạp chiếu phim,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100233,1152,2026-01-13,11,119200.0,Y tế,Cửa hàng điện tử,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100234,1099,2026-02-22,11,142600.0,Y tế,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100235,1144,2026-03-13,7,115700.0,Giải trí,Taxi,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100236,1133,2026-01-23,22,95800.0,Giải trí,Dịch vụ tiện ích,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100237,1087,2026-01-25,8,463400.0,Y tế,Taxi,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100238,1062,2026-02-12,19,356300.0,Điện tử,Nhà thuốc,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100239,1126,2026-03-21,10,435800.0,Ăn uống,Taxi,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100240,1029,2026-01-21,12,226100.0,Y tế,Nhà thuốc,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100241,1117,2026-03-01,11,378900.0,Mua sắm,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX100242,1019,2026-02-10,20,64100.0,Điện tử,Nhà hàng,Hà Nội,Tiền mặt,Thiết bị mới
+TX100243,1130,2026-01-11,7,402500.0,Ăn uống,Cửa hàng điện tử,Hà Nội,Tiền mặt,Thiết bị mới
+TX100244,1126,2026-03-05,12,249000.0,Mua sắm,Dịch vụ tiện ích,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100245,1017,2026-03-16,11,341200.0,Mua sắm,Rạp chiếu phim,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100246,1152,2026-02-21,11,287000.0,Giải trí,Dịch vụ tiện ích,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100247,1084,2026-01-16,10,110200.0,Ăn uống,Cửa hàng trực tuyến,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100248,1158,2026-01-15,21,77100.0,Ăn uống,Cửa hàng điện tử,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100249,1009,2026-02-08,13,133600.0,Hóa đơn,Cửa hàng trực tuyến,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX100250,1036,2026-02-15,13,326700.0,Điện tử,Cửa hàng điện tử,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100251,1099,2026-02-19,13,356600.0,Hóa đơn,Taxi,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100252,1038,2026-01-22,22,84400.0,Hóa đơn,Siêu thị,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100253,1066,2026-02-15,12,110700.0,Giải trí,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100254,1133,2026-01-27,12,132600.0,Hóa đơn,Cửa hàng điện tử,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100255,1029,2026-03-03,12,171300.0,Di chuyển,Dịch vụ tiện ích,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100256,1136,2026-03-13,12,84800.0,Giải trí,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100257,1021,2026-02-28,8,81300.0,Ăn uống,Nhà thuốc,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100258,1036,2026-01-01,16,123800.0,Mua sắm,Dịch vụ tiện ích,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100259,1118,2026-03-31,7,233700.0,Giải trí,Rạp chiếu phim,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX100260,1159,2026-01-03,10,96300.0,Di chuyển,Rạp chiếu phim,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100261,1035,2026-03-31,10,202900.0,Ăn uống,Nhà hàng,Hà Nội,Ví điện tử,Thiết bị mới
+TX100262,1060,2026-01-03,11,461600.0,Ăn uống,Siêu thị,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100263,1186,2026-02-16,19,88400.0,Điện tử,Rạp chiếu phim,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX100264,1198,2026-01-10,16,190400.0,Di chuyển,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100265,1117,2026-01-09,22,450800.0,Ăn uống,Rạp chiếu phim,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100266,1090,2026-03-03,12,164200.0,Y tế,Nhà hàng,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX100267,1070,2026-03-07,21,147200.0,Hóa đơn,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100268,1123,2026-01-11,7,496700.0,Hóa đơn,Rạp chiếu phim,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100269,1119,2026-03-29,15,177600.0,Điện tử,Dịch vụ tiện ích,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100270,1059,2026-01-29,19,476600.0,Di chuyển,Nhà thuốc,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100271,1005,2026-01-29,15,297100.0,Giải trí,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100272,1031,2026-01-27,21,173100.0,Y tế,Siêu thị,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100273,1192,2026-02-11,12,307800.0,Giải trí,Nhà thuốc,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100274,1084,2026-01-17,7,275300.0,Mua sắm,Nhà hàng,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100275,1097,2026-02-08,19,449500.0,Giải trí,Nhà hàng,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100276,1094,2026-01-19,8,149900.0,Y tế,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị mới
+TX100277,1157,2026-01-05,19,226400.0,Ăn uống,Nhà hàng,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100278,1013,2026-02-03,18,210700.0,Mua sắm,Dịch vụ tiện ích,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100279,1017,2026-03-02,20,360200.0,Giải trí,Taxi,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100280,1056,2026-03-10,14,107300.0,Ăn uống,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100281,1098,2026-02-01,21,448300.0,Điện tử,Siêu thị,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100282,1135,2026-01-30,9,304900.0,Ăn uống,Siêu thị,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100283,1099,2026-03-12,13,87500.0,Điện tử,Taxi,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100284,1089,2026-03-03,8,512600.0,Giải trí,Taxi,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100285,1188,2026-03-16,19,1051000.0,Hóa đơn,Nhà thuốc,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100286,1033,2026-03-23,18,443600.0,Mua sắm,Dịch vụ tiện ích,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100287,1115,2026-03-15,19,597400.0,Di chuyển,Nhà hàng,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100288,1109,2026-03-26,19,233500.0,Y tế,Cửa hàng điện tử,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100289,1095,2026-02-07,11,68800.0,Y tế,Taxi,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100290,1162,2026-02-05,8,60500.0,Mua sắm,Cửa hàng điện tử,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100291,1054,2026-01-29,21,263000.0,Hóa đơn,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100292,1191,2026-01-22,14,145400.0,Điện tử,Siêu thị,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100293,1067,2026-03-09,8,116000.0,Mua sắm,Dịch vụ tiện ích,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100294,1110,2026-03-06,21,210500.0,Giải trí,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100295,1105,2026-03-14,22,338500.0,Mua sắm,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX100296,1170,2026-01-16,14,79600.0,Y tế,Cửa hàng trực tuyến,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100297,1088,2026-02-14,19,160700.0,Mua sắm,Dịch vụ tiện ích,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100298,1057,2026-01-20,7,633000.0,Di chuyển,Taxi,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100299,1005,2026-03-22,8,103600.0,Hóa đơn,Nhà hàng,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100300,1073,2026-01-25,11,404400.0,Di chuyển,Cửa hàng trực tuyến,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100301,1166,2026-01-13,17,156700.0,Mua sắm,Nhà hàng,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100302,1002,2026-02-21,9,322400.0,Giải trí,Nhà thuốc,Cần Thơ,Tiền mặt,Thiết bị mới
+TX100303,1180,2026-03-21,7,474300.0,Ăn uống,Rạp chiếu phim,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX100304,1109,2026-03-24,17,369600.0,Điện tử,Taxi,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX100305,1029,2026-01-09,19,415700.0,Ăn uống,Taxi,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100306,1061,2026-01-30,18,98200.0,Di chuyển,Siêu thị,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100307,1111,2026-01-14,19,479700.0,Điện tử,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100308,1064,2026-01-28,19,121100.0,Mua sắm,Cửa hàng điện tử,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100309,1022,2026-02-18,16,263800.0,Ăn uống,Siêu thị,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100310,1134,2026-01-26,15,263600.0,Y tế,Nhà hàng,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100311,1135,2026-01-07,20,309000.0,Ăn uống,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100312,1024,2026-02-15,12,278500.0,Điện tử,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100313,1057,2026-01-05,8,121900.0,Hóa đơn,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX100314,1049,2026-01-21,19,85500.0,Điện tử,Taxi,Cần Thơ,Thẻ,Thiết bị mới
+TX100315,1132,2026-01-01,11,405200.0,Mua sắm,Rạp chiếu phim,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100316,1147,2026-01-08,22,250600.0,Ăn uống,Cửa hàng trực tuyến,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100317,1146,2026-02-09,13,491900.0,Điện tử,Taxi,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100318,1188,2026-03-18,20,213200.0,Y tế,Rạp chiếu phim,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100319,1154,2026-03-11,7,82300.0,Điện tử,Dịch vụ tiện ích,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100320,1065,2026-01-09,17,432600.0,Di chuyển,Cửa hàng điện tử,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100321,1022,2026-01-04,14,169800.0,Di chuyển,Nhà hàng,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100322,1123,2026-01-31,14,279500.0,Giải trí,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị mới
+TX100323,1184,2026-02-28,11,139800.0,Hóa đơn,Nhà hàng,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100324,1196,2026-03-09,22,695500.0,Mua sắm,Rạp chiếu phim,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX100325,1047,2026-03-16,13,119100.0,Di chuyển,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị mới
+TX100326,1048,2026-01-31,20,173700.0,Giải trí,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị mới
+TX100327,1008,2026-01-16,13,237200.0,Ăn uống,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX100328,1029,2026-01-03,7,102400.0,Di chuyển,Taxi,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100329,1111,2026-01-14,21,277300.0,Di chuyển,Nhà hàng,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX100330,1110,2026-01-06,9,679900.0,Ăn uống,Dịch vụ tiện ích,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100331,1075,2026-03-19,11,156100.0,Ăn uống,Taxi,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100332,1062,2026-01-25,20,290100.0,Hóa đơn,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100333,1166,2026-03-16,21,32100.0,Ăn uống,Taxi,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX100334,1093,2026-02-19,21,214100.0,Di chuyển,Cửa hàng điện tử,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX100335,1162,2026-02-18,13,176700.0,Hóa đơn,Nhà hàng,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100336,1193,2026-02-10,19,124000.0,Điện tử,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100337,1064,2026-03-15,12,469000.0,Ăn uống,Dịch vụ tiện ích,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100338,1041,2026-01-04,18,175100.0,Hóa đơn,Siêu thị,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100339,1191,2026-01-09,15,194300.0,Ăn uống,Nhà hàng,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100340,1127,2026-02-08,7,168900.0,Hóa đơn,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100341,1059,2026-02-05,13,57500.0,Hóa đơn,Dịch vụ tiện ích,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100342,1125,2026-02-19,14,99600.0,Y tế,Rạp chiếu phim,Hải Phòng,Ví điện tử,Thiết bị mới
+TX100343,1104,2026-03-08,11,431100.0,Hóa đơn,Siêu thị,Hà Nội,Thẻ,Thiết bị mới
+TX100344,1182,2026-02-22,12,50200.0,Điện tử,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị mới
+TX100345,1052,2026-01-24,15,128700.0,Ăn uống,Taxi,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100346,1199,2026-01-30,7,166300.0,Ăn uống,Nhà hàng,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100347,1188,2026-03-09,9,745600.0,Ăn uống,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX100348,1037,2026-01-19,19,376800.0,Di chuyển,Nhà hàng,Cần Thơ,Thẻ,Thiết bị mới
+TX100349,1033,2026-02-15,12,148900.0,Mua sắm,Taxi,Hà Nội,Tiền mặt,Thiết bị mới
+TX100350,1107,2026-02-18,16,548300.0,Ăn uống,Taxi,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100351,1009,2026-03-09,16,131000.0,Mua sắm,Taxi,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100352,1060,2026-03-06,15,445900.0,Điện tử,Taxi,Cần Thơ,Thẻ,Thiết bị mới
+TX100353,1088,2026-02-11,13,85000.0,Y tế,Cửa hàng điện tử,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100354,1194,2026-01-28,14,466300.0,Ăn uống,Cửa hàng điện tử,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100355,1199,2026-02-03,20,165600.0,Điện tử,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX100356,1031,2026-02-07,22,107100.0,Mua sắm,Cửa hàng điện tử,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX100357,1179,2026-01-20,11,189000.0,Di chuyển,Nhà thuốc,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100358,1019,2026-02-26,17,267100.0,Di chuyển,Nhà thuốc,Hải Phòng,Ví điện tử,Thiết bị mới
+TX100359,1150,2026-01-19,22,155600.0,Di chuyển,Nhà hàng,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX100360,1170,2026-02-28,7,324200.0,Y tế,Taxi,Hải Phòng,Tiền mặt,Thiết bị mới
+TX100361,1179,2026-03-09,19,146300.0,Giải trí,Cửa hàng trực tuyến,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100362,1045,2026-03-28,14,339600.0,Giải trí,Siêu thị,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100363,1179,2026-01-11,22,299800.0,Giải trí,Siêu thị,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100364,1024,2026-03-10,16,210800.0,Y tế,Dịch vụ tiện ích,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100365,1104,2026-01-08,20,161500.0,Mua sắm,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100366,1094,2026-01-31,9,244600.0,Di chuyển,Nhà thuốc,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100367,1064,2026-01-16,9,323400.0,Ăn uống,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100368,1005,2026-01-15,21,931600.0,Giải trí,Siêu thị,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100369,1155,2026-01-16,15,424600.0,Hóa đơn,Nhà thuốc,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX100370,1068,2026-01-04,15,435600.0,Giải trí,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100371,1133,2026-03-16,9,1911400.0,Hóa đơn,Dịch vụ tiện ích,Cần Thơ,Ví điện tử,Thiết bị mới
+TX100372,1083,2026-01-06,10,315700.0,Mua sắm,Cửa hàng điện tử,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100373,1075,2026-02-05,20,308900.0,Ăn uống,Rạp chiếu phim,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100374,1178,2026-03-04,11,360100.0,Điện tử,Siêu thị,Hà Nội,Thẻ,Thiết bị mới
+TX100375,1019,2026-03-31,16,108600.0,Di chuyển,Nhà hàng,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100376,1148,2026-03-18,12,161200.0,Ăn uống,Taxi,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100377,1150,2026-01-13,11,154400.0,Di chuyển,Siêu thị,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100378,1076,2026-03-30,9,346200.0,Điện tử,Nhà hàng,Hải Phòng,Ví điện tử,Thiết bị mới
+TX100379,1053,2026-02-28,21,194700.0,Mua sắm,Nhà thuốc,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100380,1002,2026-01-17,22,242400.0,Điện tử,Nhà hàng,Hà Nội,Thẻ,Thiết bị mới
+TX100381,1188,2026-02-10,8,471000.0,Hóa đơn,Nhà hàng,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100382,1190,2026-03-24,12,402600.0,Điện tử,Dịch vụ tiện ích,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100383,1049,2026-02-05,16,196500.0,Giải trí,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100384,1007,2026-01-17,13,137600.0,Ăn uống,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100385,1025,2026-03-20,18,487000.0,Hóa đơn,Cửa hàng điện tử,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100386,1014,2026-03-27,11,378200.0,Di chuyển,Rạp chiếu phim,Hà Nội,Tiền mặt,Thiết bị mới
+TX100387,1167,2026-03-29,7,71500.0,Mua sắm,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100388,1179,2026-03-28,12,176700.0,Hóa đơn,Cửa hàng trực tuyến,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100389,1031,2026-03-20,16,247000.0,Ăn uống,Dịch vụ tiện ích,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100390,1150,2026-02-10,9,379500.0,Giải trí,Nhà hàng,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100391,1036,2026-01-18,20,416000.0,Y tế,Taxi,Hải Phòng,Thẻ,Thiết bị mới
+TX100392,1074,2026-02-25,7,268400.0,Ăn uống,Nhà hàng,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100393,1120,2026-01-20,8,331400.0,Hóa đơn,Nhà thuốc,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100394,1144,2026-02-12,15,230100.0,Giải trí,Nhà hàng,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100395,1175,2026-03-01,15,137300.0,Ăn uống,Nhà hàng,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100396,1009,2026-03-27,11,183200.0,Di chuyển,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100397,1040,2026-01-27,11,222900.0,Mua sắm,Taxi,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100398,1057,2026-01-23,8,214700.0,Ăn uống,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX100399,1063,2026-03-08,17,58800.0,Y tế,Cửa hàng trực tuyến,Hải Phòng,Tiền mặt,Thiết bị mới
+TX100400,1200,2026-01-01,13,166600.0,Hóa đơn,Cửa hàng trực tuyến,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100401,1156,2026-02-20,8,228800.0,Y tế,Cửa hàng điện tử,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX100402,1065,2026-03-09,13,180700.0,Giải trí,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100403,1195,2026-02-19,21,185100.0,Điện tử,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100404,1100,2026-02-04,11,309600.0,Điện tử,Cửa hàng điện tử,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100405,1101,2026-03-16,21,103400.0,Giải trí,Rạp chiếu phim,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100406,1087,2026-02-03,11,70400.0,Di chuyển,Nhà thuốc,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100407,1029,2026-03-05,9,172400.0,Di chuyển,Siêu thị,Cần Thơ,Thẻ,Thiết bị mới
+TX100408,1187,2026-02-11,11,375600.0,Y tế,Cửa hàng điện tử,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100409,1003,2026-01-03,12,716900.0,Di chuyển,Taxi,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100410,1035,2026-02-17,8,380400.0,Hóa đơn,Rạp chiếu phim,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100411,1046,2026-01-05,16,78700.0,Mua sắm,Nhà hàng,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100412,1056,2026-03-25,12,187000.0,Điện tử,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100413,1027,2026-02-24,18,263300.0,Giải trí,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị mới
+TX100414,1004,2026-02-03,14,249100.0,Di chuyển,Taxi,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100415,1136,2026-02-13,14,320900.0,Giải trí,Nhà hàng,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100416,1194,2026-02-25,14,115800.0,Di chuyển,Rạp chiếu phim,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100417,1025,2026-01-24,9,230200.0,Mua sắm,Siêu thị,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100418,1060,2026-01-26,18,295300.0,Điện tử,Taxi,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100419,1102,2026-02-07,8,392100.0,Điện tử,Rạp chiếu phim,Hà Nội,Tiền mặt,Thiết bị mới
+TX100420,1186,2026-01-24,18,125200.0,Y tế,Rạp chiếu phim,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100421,1139,2026-03-10,22,172800.0,Di chuyển,Taxi,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100422,1154,2026-01-10,19,33100.0,Mua sắm,Cửa hàng trực tuyến,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100423,1117,2026-03-16,14,142400.0,Ăn uống,Nhà thuốc,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100424,1084,2026-02-01,12,152400.0,Y tế,Nhà hàng,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100425,1040,2026-02-20,20,107800.0,Di chuyển,Siêu thị,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100426,1173,2026-01-15,11,247000.0,Điện tử,Nhà hàng,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100427,1161,2026-02-04,14,211600.0,Điện tử,Nhà thuốc,Hải Phòng,Thẻ,Thiết bị mới
+TX100428,1006,2026-03-09,19,45200.0,Ăn uống,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100429,1144,2026-01-25,21,255800.0,Điện tử,Siêu thị,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX100430,1017,2026-01-12,21,114900.0,Ăn uống,Nhà hàng,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100431,1148,2026-02-16,8,309100.0,Hóa đơn,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX100432,1166,2026-01-15,21,89700.0,Hóa đơn,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100433,1027,2026-01-29,8,224700.0,Điện tử,Taxi,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100434,1087,2026-02-10,16,180400.0,Giải trí,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100435,1025,2026-02-20,21,272000.0,Điện tử,Nhà hàng,Cần Thơ,Thẻ,Thiết bị mới
+TX100436,1114,2026-02-27,17,240100.0,Giải trí,Dịch vụ tiện ích,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX100437,1186,2026-03-02,22,184000.0,Y tế,Dịch vụ tiện ích,Hà Nội,Tiền mặt,Thiết bị mới
+TX100438,1017,2026-03-17,12,75100.0,Y tế,Nhà thuốc,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100439,1080,2026-01-06,12,78200.0,Điện tử,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100440,1195,2026-02-02,12,146200.0,Di chuyển,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100441,1061,2026-01-01,12,218700.0,Di chuyển,Siêu thị,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100442,1027,2026-01-01,17,143700.0,Điện tử,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100443,1098,2026-01-20,14,340800.0,Y tế,Rạp chiếu phim,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100444,1102,2026-02-23,18,180900.0,Điện tử,Rạp chiếu phim,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100445,1133,2026-03-22,13,112000.0,Giải trí,Nhà hàng,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX100446,1063,2026-03-11,11,181100.0,Điện tử,Rạp chiếu phim,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100447,1192,2026-02-28,10,257700.0,Y tế,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100448,1105,2026-03-12,15,276200.0,Y tế,Nhà hàng,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100449,1058,2026-01-16,21,819300.0,Mua sắm,Rạp chiếu phim,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100450,1193,2026-03-17,20,137700.0,Hóa đơn,Taxi,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX100451,1185,2026-03-22,11,209000.0,Y tế,Siêu thị,Hải Phòng,Ví điện tử,Thiết bị mới
+TX100452,1100,2026-01-09,14,296500.0,Y tế,Taxi,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100453,1005,2026-02-12,18,216400.0,Điện tử,Nhà thuốc,Hải Phòng,Ví điện tử,Thiết bị mới
+TX100454,1120,2026-03-16,16,155000.0,Di chuyển,Rạp chiếu phim,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100455,1112,2026-02-12,8,74400.0,Di chuyển,Cửa hàng trực tuyến,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100456,1030,2026-03-17,16,153900.0,Điện tử,Nhà thuốc,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100457,1127,2026-03-26,7,103800.0,Điện tử,Taxi,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100458,1169,2026-02-12,8,65700.0,Mua sắm,Taxi,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100459,1022,2026-01-06,17,126000.0,Di chuyển,Siêu thị,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100460,1145,2026-01-31,8,105700.0,Điện tử,Cửa hàng điện tử,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100461,1029,2026-01-20,12,331100.0,Mua sắm,Nhà thuốc,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100462,1150,2026-02-12,16,335100.0,Y tế,Nhà hàng,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100463,1084,2026-02-22,17,116900.0,Ăn uống,Dịch vụ tiện ích,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100464,1002,2026-02-11,14,183400.0,Mua sắm,Nhà thuốc,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100465,1194,2026-01-18,8,59900.0,Y tế,Dịch vụ tiện ích,Hải Phòng,Ví điện tử,Thiết bị mới
+TX100466,1034,2026-01-28,19,155600.0,Giải trí,Nhà hàng,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100467,1120,2026-03-03,22,290900.0,Hóa đơn,Cửa hàng điện tử,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100468,1037,2026-01-03,21,391900.0,Y tế,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX100469,1187,2026-01-20,18,133600.0,Di chuyển,Cửa hàng trực tuyến,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100470,1148,2026-03-22,13,459400.0,Hóa đơn,Cửa hàng trực tuyến,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100471,1161,2026-01-09,21,76100.0,Giải trí,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100472,1087,2026-02-07,14,91900.0,Y tế,Dịch vụ tiện ích,Hà Nội,Tiền mặt,Thiết bị mới
+TX100473,1094,2026-01-19,9,361500.0,Di chuyển,Rạp chiếu phim,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100474,1127,2026-01-10,20,708700.0,Giải trí,Cửa hàng điện tử,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100475,1157,2026-02-08,12,310800.0,Hóa đơn,Cửa hàng điện tử,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX100476,1170,2026-02-16,22,213900.0,Hóa đơn,Nhà thuốc,Hà Nội,Thẻ,Thiết bị mới
+TX100477,1004,2026-01-16,12,47300.0,Điện tử,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100478,1133,2026-01-08,20,53400.0,Di chuyển,Cửa hàng điện tử,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100479,1022,2026-01-13,15,240900.0,Giải trí,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100480,1058,2026-02-28,14,171200.0,Điện tử,Rạp chiếu phim,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100481,1166,2026-03-19,11,101400.0,Y tế,Nhà hàng,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100482,1051,2026-01-17,20,230300.0,Điện tử,Siêu thị,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100483,1160,2026-01-29,7,238500.0,Giải trí,Nhà thuốc,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100484,1093,2026-01-31,14,426100.0,Mua sắm,Cửa hàng trực tuyến,Hải Phòng,Tiền mặt,Thiết bị mới
+TX100485,1047,2026-02-02,12,242100.0,Điện tử,Nhà thuốc,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100486,1067,2026-01-22,15,519800.0,Giải trí,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100487,1107,2026-01-05,11,221200.0,Mua sắm,Rạp chiếu phim,Hà Nội,Ví điện tử,Thiết bị mới
+TX100488,1154,2026-02-17,17,202900.0,Di chuyển,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100489,1122,2026-02-02,13,463400.0,Mua sắm,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100490,1187,2026-01-31,10,110900.0,Y tế,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100491,1174,2026-01-24,10,1577700.0,Ăn uống,Cửa hàng điện tử,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100492,1151,2026-03-25,18,286100.0,Y tế,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100493,1121,2026-02-24,11,287200.0,Hóa đơn,Nhà hàng,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX100494,1058,2026-02-07,11,317700.0,Ăn uống,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị mới
+TX100495,1083,2026-01-19,17,818600.0,Giải trí,Taxi,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100496,1024,2026-03-14,12,383100.0,Y tế,Nhà thuốc,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100497,1075,2026-03-21,13,71500.0,Y tế,Dịch vụ tiện ích,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100498,1186,2026-01-03,10,587600.0,Hóa đơn,Dịch vụ tiện ích,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX100499,1086,2026-03-25,12,173300.0,Di chuyển,Nhà hàng,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100500,1023,2026-03-04,18,237100.0,Mua sắm,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100501,1131,2026-01-09,15,89900.0,Ăn uống,Rạp chiếu phim,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100502,1193,2026-03-09,22,318000.0,Di chuyển,Nhà thuốc,Cần Thơ,Tiền mặt,Thiết bị mới
+TX100503,1174,2026-01-10,19,139400.0,Giải trí,Siêu thị,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100504,1055,2026-01-05,7,236000.0,Ăn uống,Siêu thị,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100505,1091,2026-01-11,13,180300.0,Điện tử,Rạp chiếu phim,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100506,1107,2026-02-11,11,846500.0,Giải trí,Taxi,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100507,1050,2026-02-25,16,881100.0,Di chuyển,Nhà thuốc,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX100508,1054,2026-02-06,11,227300.0,Điện tử,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100509,1048,2026-01-11,22,230100.0,Mua sắm,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100510,1199,2026-01-18,11,169400.0,Điện tử,Siêu thị,Hà Nội,Thẻ,Thiết bị mới
+TX100511,1150,2026-03-18,15,477200.0,Mua sắm,Rạp chiếu phim,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100512,1169,2026-03-28,8,174800.0,Di chuyển,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX100513,1164,2026-03-09,21,163800.0,Di chuyển,Nhà hàng,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100514,1192,2026-01-10,21,436400.0,Điện tử,Cửa hàng trực tuyến,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100515,1022,2026-03-15,19,150900.0,Mua sắm,Nhà thuốc,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100516,1177,2026-03-04,12,214300.0,Điện tử,Siêu thị,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100517,1014,2026-02-17,7,72700.0,Di chuyển,Cửa hàng điện tử,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100518,1096,2026-01-13,18,360200.0,Mua sắm,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị mới
+TX100519,1119,2026-03-31,13,856000.0,Giải trí,Nhà hàng,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100520,1072,2026-02-09,22,364500.0,Giải trí,Nhà hàng,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX100521,1030,2026-01-04,18,612100.0,Di chuyển,Rạp chiếu phim,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100522,1039,2026-01-19,15,121700.0,Ăn uống,Siêu thị,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100523,1165,2026-02-06,22,259600.0,Di chuyển,Dịch vụ tiện ích,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100524,1064,2026-01-06,19,113700.0,Hóa đơn,Siêu thị,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100525,1063,2026-01-30,14,187600.0,Ăn uống,Dịch vụ tiện ích,Cần Thơ,Tiền mặt,Thiết bị mới
+TX100526,1185,2026-02-12,7,377700.0,Ăn uống,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị mới
+TX100527,1029,2026-03-27,8,236300.0,Điện tử,Rạp chiếu phim,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100528,1184,2026-01-08,14,81800.0,Ăn uống,Cửa hàng điện tử,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100529,1185,2026-02-21,15,87600.0,Di chuyển,Taxi,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX100530,1120,2026-03-24,7,83700.0,Y tế,Rạp chiếu phim,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100531,1034,2026-03-14,9,310300.0,Di chuyển,Dịch vụ tiện ích,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100532,1032,2026-03-25,18,933000.0,Hóa đơn,Cửa hàng điện tử,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100533,1057,2026-01-16,19,571000.0,Ăn uống,Nhà hàng,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100534,1116,2026-03-14,7,58300.0,Y tế,Nhà hàng,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100535,1031,2026-03-30,15,594900.0,Giải trí,Taxi,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100536,1092,2026-01-30,8,423700.0,Y tế,Rạp chiếu phim,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100537,1024,2026-02-14,18,74600.0,Điện tử,Nhà thuốc,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100538,1109,2026-02-17,20,177900.0,Di chuyển,Cửa hàng trực tuyến,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100539,1005,2026-02-14,20,473700.0,Ăn uống,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100540,1142,2026-01-27,16,323400.0,Di chuyển,Dịch vụ tiện ích,Cần Thơ,Ví điện tử,Thiết bị mới
+TX100541,1012,2026-03-29,17,88000.0,Mua sắm,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100542,1039,2026-03-28,21,337400.0,Hóa đơn,Cửa hàng trực tuyến,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100543,1035,2026-02-04,16,49300.0,Mua sắm,Nhà hàng,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100544,1167,2026-03-14,14,188200.0,Điện tử,Nhà thuốc,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100545,1011,2026-02-05,19,487900.0,Giải trí,Nhà thuốc,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100546,1086,2026-03-13,16,222900.0,Mua sắm,Rạp chiếu phim,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX100547,1119,2026-02-22,20,155100.0,Điện tử,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100548,1104,2026-02-12,15,410000.0,Y tế,Cửa hàng trực tuyến,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100549,1137,2026-01-12,20,435300.0,Hóa đơn,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100550,1161,2026-02-28,7,550400.0,Mua sắm,Siêu thị,Hải Phòng,Tiền mặt,Thiết bị mới
+TX100551,1079,2026-01-29,7,405700.0,Di chuyển,Nhà hàng,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100552,1166,2026-01-20,8,469000.0,Giải trí,Taxi,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100553,1064,2026-01-18,15,367500.0,Y tế,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100554,1197,2026-03-30,18,264900.0,Mua sắm,Siêu thị,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100555,1101,2026-01-10,10,234200.0,Y tế,Cửa hàng điện tử,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100556,1148,2026-03-13,9,186300.0,Mua sắm,Cửa hàng trực tuyến,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX100557,1176,2026-03-19,20,94200.0,Mua sắm,Dịch vụ tiện ích,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100558,1159,2026-01-03,19,112700.0,Hóa đơn,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100559,1171,2026-02-23,17,180600.0,Mua sắm,Taxi,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100560,1108,2026-02-21,14,260500.0,Di chuyển,Nhà thuốc,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100561,1009,2026-02-02,13,603200.0,Di chuyển,Rạp chiếu phim,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100562,1099,2026-03-02,7,213700.0,Mua sắm,Nhà thuốc,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100563,1037,2026-02-06,10,444100.0,Y tế,Taxi,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX100564,1178,2026-02-09,21,468300.0,Di chuyển,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100565,1048,2026-02-08,12,187100.0,Giải trí,Taxi,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100566,1046,2026-03-14,18,333600.0,Y tế,Dịch vụ tiện ích,Cần Thơ,Ví điện tử,Thiết bị mới
+TX100567,1050,2026-02-26,18,185500.0,Giải trí,Cửa hàng trực tuyến,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100568,1129,2026-02-04,11,555100.0,Mua sắm,Taxi,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100569,1115,2026-03-25,10,343300.0,Y tế,Nhà hàng,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100570,1190,2026-03-14,18,95600.0,Mua sắm,Dịch vụ tiện ích,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100571,1084,2026-03-25,8,246300.0,Mua sắm,Rạp chiếu phim,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100572,1057,2026-03-07,14,697400.0,Điện tử,Dịch vụ tiện ích,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100573,1010,2026-02-05,21,193800.0,Di chuyển,Nhà thuốc,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100574,1002,2026-03-11,18,301000.0,Giải trí,Cửa hàng điện tử,Đà Nẵng,Thẻ,Thiết bị mới
+TX100575,1075,2026-01-30,19,322400.0,Ăn uống,Cửa hàng điện tử,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100576,1186,2026-01-25,8,106500.0,Giải trí,Siêu thị,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100577,1105,2026-02-10,10,314500.0,Điện tử,Cửa hàng điện tử,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX100578,1179,2026-03-29,11,82900.0,Giải trí,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100579,1021,2026-02-21,11,142000.0,Giải trí,Taxi,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100580,1019,2026-02-04,10,467100.0,Y tế,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100581,1167,2026-02-11,22,282400.0,Di chuyển,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100582,1022,2026-01-27,9,177800.0,Di chuyển,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100583,1011,2026-03-01,18,300700.0,Ăn uống,Rạp chiếu phim,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100584,1081,2026-02-01,16,210900.0,Giải trí,Cửa hàng điện tử,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100585,1185,2026-02-19,16,221900.0,Y tế,Cửa hàng điện tử,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100586,1138,2026-02-03,10,348400.0,Y tế,Taxi,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100587,1020,2026-01-29,11,132200.0,Y tế,Rạp chiếu phim,Đà Nẵng,Thẻ,Thiết bị mới
+TX100588,1168,2026-03-29,16,226300.0,Ăn uống,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị mới
+TX100589,1169,2026-02-01,11,176800.0,Giải trí,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100590,1161,2026-01-07,18,72500.0,Y tế,Rạp chiếu phim,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100591,1181,2026-02-04,7,115500.0,Mua sắm,Rạp chiếu phim,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100592,1048,2026-02-17,8,659400.0,Hóa đơn,Cửa hàng điện tử,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100593,1196,2026-01-09,18,288000.0,Điện tử,Nhà thuốc,Hà Nội,Tiền mặt,Thiết bị mới
+TX100594,1065,2026-01-28,16,87100.0,Di chuyển,Dịch vụ tiện ích,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100595,1161,2026-01-15,7,74800.0,Y tế,Cửa hàng điện tử,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100596,1116,2026-02-15,21,203400.0,Hóa đơn,Siêu thị,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100597,1156,2026-03-07,7,656200.0,Giải trí,Nhà thuốc,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100598,1126,2026-03-29,22,193000.0,Giải trí,Taxi,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100599,1129,2026-02-05,18,549200.0,Giải trí,Taxi,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100600,1124,2026-03-19,22,281500.0,Y tế,Nhà thuốc,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100601,1156,2026-01-20,22,306000.0,Điện tử,Cửa hàng trực tuyến,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100602,1148,2026-03-12,12,86400.0,Di chuyển,Cửa hàng điện tử,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100603,1027,2026-02-20,19,424100.0,Điện tử,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100604,1166,2026-03-10,10,174000.0,Giải trí,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị mới
+TX100605,1108,2026-03-09,14,402500.0,Giải trí,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX100606,1065,2026-02-17,10,124400.0,Di chuyển,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100607,1103,2026-01-24,14,249000.0,Di chuyển,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100608,1194,2026-02-17,20,281500.0,Giải trí,Siêu thị,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100609,1172,2026-03-16,13,197500.0,Di chuyển,Dịch vụ tiện ích,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100610,1167,2026-03-29,8,292000.0,Di chuyển,Nhà thuốc,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX100611,1093,2026-03-25,12,182600.0,Y tế,Taxi,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100612,1157,2026-01-17,19,139700.0,Di chuyển,Dịch vụ tiện ích,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100613,1078,2026-02-23,15,676900.0,Giải trí,Cửa hàng trực tuyến,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100614,1138,2026-01-10,15,458500.0,Ăn uống,Nhà hàng,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100615,1128,2026-03-02,13,129200.0,Ăn uống,Rạp chiếu phim,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100616,1050,2026-03-31,11,327500.0,Y tế,Cửa hàng điện tử,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100617,1054,2026-01-05,16,130800.0,Ăn uống,Dịch vụ tiện ích,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100618,1013,2026-03-01,17,96000.0,Y tế,Taxi,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100619,1028,2026-03-27,21,453600.0,Điện tử,Nhà hàng,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100620,1087,2026-03-18,16,66700.0,Hóa đơn,Cửa hàng điện tử,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100621,1096,2026-02-05,22,420900.0,Điện tử,Nhà thuốc,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100622,1034,2026-01-10,20,184300.0,Di chuyển,Cửa hàng điện tử,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100623,1084,2026-03-25,8,189700.0,Điện tử,Cửa hàng trực tuyến,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100624,1121,2026-03-24,13,293100.0,Mua sắm,Rạp chiếu phim,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100625,1047,2026-02-22,13,330500.0,Di chuyển,Taxi,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100626,1068,2026-03-30,7,123400.0,Di chuyển,Nhà hàng,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100627,1074,2026-01-01,9,363600.0,Y tế,Nhà hàng,Hải Phòng,Tiền mặt,Thiết bị mới
+TX100628,1102,2026-02-25,19,238200.0,Ăn uống,Taxi,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX100629,1074,2026-01-04,12,91300.0,Y tế,Dịch vụ tiện ích,Cần Thơ,Ví điện tử,Thiết bị mới
+TX100630,1148,2026-03-26,9,195300.0,Ăn uống,Siêu thị,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100631,1066,2026-03-03,11,578500.0,Di chuyển,Rạp chiếu phim,Cần Thơ,Thẻ,Thiết bị mới
+TX100632,1087,2026-03-24,11,711400.0,Giải trí,Taxi,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100633,1076,2026-02-20,9,363500.0,Mua sắm,Cửa hàng điện tử,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX100634,1037,2026-01-08,8,95600.0,Hóa đơn,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị mới
+TX100635,1138,2026-01-03,19,310100.0,Điện tử,Siêu thị,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100636,1048,2026-01-31,20,399100.0,Y tế,Cửa hàng trực tuyến,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100637,1060,2026-03-08,14,365600.0,Ăn uống,Cửa hàng điện tử,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100638,1159,2026-01-14,16,381100.0,Giải trí,Cửa hàng trực tuyến,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100639,1190,2026-03-18,21,283700.0,Giải trí,Rạp chiếu phim,Cần Thơ,Ví điện tử,Thiết bị mới
+TX100640,1135,2026-01-22,20,209100.0,Ăn uống,Nhà thuốc,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100641,1184,2026-02-14,7,143700.0,Giải trí,Cửa hàng trực tuyến,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100642,1171,2026-01-19,22,58300.0,Hóa đơn,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX100643,1097,2026-02-11,8,279000.0,Giải trí,Nhà hàng,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100644,1155,2026-02-10,7,250600.0,Di chuyển,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100645,1066,2026-01-01,13,325000.0,Mua sắm,Cửa hàng trực tuyến,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100646,1093,2026-02-21,18,86300.0,Y tế,Rạp chiếu phim,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100647,1108,2026-03-12,8,345600.0,Y tế,Cửa hàng điện tử,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100648,1193,2026-03-26,11,926900.0,Mua sắm,Cửa hàng trực tuyến,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100649,1170,2026-01-30,11,232400.0,Mua sắm,Cửa hàng trực tuyến,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100650,1098,2026-03-21,13,210700.0,Giải trí,Nhà thuốc,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100651,1131,2026-03-21,22,273100.0,Y tế,Taxi,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100652,1041,2026-03-30,12,912600.0,Mua sắm,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX100653,1161,2026-02-03,10,107500.0,Mua sắm,Rạp chiếu phim,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100654,1111,2026-03-18,8,253600.0,Y tế,Nhà hàng,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100655,1107,2026-02-20,10,125700.0,Giải trí,Nhà thuốc,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100656,1154,2026-01-06,9,150000.0,Điện tử,Cửa hàng trực tuyến,Hải Phòng,Ví điện tử,Thiết bị mới
+TX100657,1127,2026-01-25,16,212500.0,Y tế,Rạp chiếu phim,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100658,1015,2026-03-02,13,565000.0,Điện tử,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100659,1058,2026-01-15,14,776100.0,Mua sắm,Nhà thuốc,Hà Nội,Ví điện tử,Thiết bị mới
+TX100660,1036,2026-02-09,20,301100.0,Mua sắm,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100661,1147,2026-03-11,16,169000.0,Mua sắm,Nhà hàng,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100662,1008,2026-01-14,9,1259600.0,Ăn uống,Nhà hàng,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100663,1041,2026-02-14,13,163100.0,Y tế,Cửa hàng điện tử,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100664,1120,2026-01-20,12,147500.0,Giải trí,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị mới
+TX100665,1139,2026-02-18,20,63500.0,Ăn uống,Cửa hàng trực tuyến,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX100666,1101,2026-01-22,11,584600.0,Mua sắm,Nhà hàng,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100667,1173,2026-03-28,9,433300.0,Mua sắm,Nhà hàng,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100668,1184,2026-01-07,18,1195200.0,Di chuyển,Cửa hàng điện tử,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100669,1027,2026-03-28,13,83200.0,Hóa đơn,Cửa hàng điện tử,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100670,1191,2026-03-13,8,610500.0,Di chuyển,Taxi,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX100671,1123,2026-03-19,18,231100.0,Điện tử,Nhà hàng,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100672,1128,2026-03-18,10,386800.0,Mua sắm,Taxi,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100673,1020,2026-01-17,20,69400.0,Hóa đơn,Nhà hàng,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100674,1125,2026-03-25,20,614800.0,Hóa đơn,Dịch vụ tiện ích,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100675,1146,2026-02-23,12,381500.0,Di chuyển,Rạp chiếu phim,Hà Nội,Ví điện tử,Thiết bị mới
+TX100676,1117,2026-03-28,15,214100.0,Y tế,Cửa hàng điện tử,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100677,1017,2026-03-21,16,345600.0,Điện tử,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100678,1105,2026-02-22,17,128700.0,Ăn uống,Nhà hàng,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100679,1188,2026-02-03,8,146600.0,Hóa đơn,Nhà hàng,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100680,1145,2026-01-11,12,159000.0,Ăn uống,Taxi,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100681,1028,2026-01-10,9,60100.0,Hóa đơn,Dịch vụ tiện ích,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100682,1192,2026-02-05,18,402200.0,Giải trí,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100683,1192,2026-03-14,8,506600.0,Di chuyển,Nhà thuốc,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100684,1034,2026-02-15,15,134700.0,Di chuyển,Taxi,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100685,1161,2026-02-13,18,280700.0,Di chuyển,Nhà thuốc,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100686,1082,2026-01-23,22,182700.0,Di chuyển,Taxi,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX100687,1119,2026-02-20,11,276800.0,Di chuyển,Nhà hàng,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX100688,1090,2026-02-27,7,141800.0,Di chuyển,Siêu thị,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100689,1157,2026-03-30,18,118500.0,Giải trí,Dịch vụ tiện ích,Cần Thơ,Tiền mặt,Thiết bị mới
+TX100690,1200,2026-03-07,7,459500.0,Ăn uống,Dịch vụ tiện ích,Hà Nội,Tiền mặt,Thiết bị mới
+TX100691,1160,2026-02-24,8,210400.0,Ăn uống,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100692,1187,2026-03-23,22,906100.0,Hóa đơn,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX100693,1190,2026-02-08,20,227200.0,Giải trí,Nhà hàng,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100694,1019,2026-03-26,18,115100.0,Mua sắm,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100695,1051,2026-02-03,20,519300.0,Mua sắm,Nhà hàng,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100696,1145,2026-01-12,8,342100.0,Giải trí,Siêu thị,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100697,1119,2026-02-07,8,365900.0,Di chuyển,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100698,1011,2026-01-12,11,506300.0,Y tế,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100699,1020,2026-01-11,7,139300.0,Mua sắm,Dịch vụ tiện ích,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100700,1105,2026-03-21,21,201300.0,Ăn uống,Nhà hàng,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX100701,1124,2026-03-13,7,195100.0,Hóa đơn,Nhà hàng,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100702,1034,2026-01-20,15,89100.0,Di chuyển,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100703,1035,2026-03-17,20,182900.0,Y tế,Rạp chiếu phim,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100704,1026,2026-01-07,18,560600.0,Hóa đơn,Rạp chiếu phim,Hà Nội,Ví điện tử,Thiết bị mới
+TX100705,1113,2026-01-26,10,259800.0,Di chuyển,Cửa hàng điện tử,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100706,1002,2026-03-05,14,85700.0,Mua sắm,Siêu thị,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100707,1115,2026-01-28,15,74000.0,Mua sắm,Nhà hàng,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100708,1096,2026-03-07,19,705500.0,Y tế,Taxi,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100709,1094,2026-03-20,13,206500.0,Mua sắm,Rạp chiếu phim,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100710,1136,2026-01-06,11,139800.0,Hóa đơn,Nhà hàng,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX100711,1105,2026-01-03,19,181600.0,Y tế,Nhà hàng,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100712,1146,2026-03-26,21,78200.0,Điện tử,Taxi,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100713,1153,2026-02-16,14,595700.0,Mua sắm,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100714,1185,2026-02-15,7,167100.0,Ăn uống,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100715,1160,2026-02-11,15,573000.0,Y tế,Nhà thuốc,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100716,1104,2026-02-09,21,228100.0,Giải trí,Dịch vụ tiện ích,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100717,1099,2026-03-04,22,598400.0,Di chuyển,Taxi,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100718,1048,2026-02-22,13,263300.0,Giải trí,Taxi,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100719,1120,2026-01-15,9,399800.0,Mua sắm,Cửa hàng điện tử,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX100720,1028,2026-02-26,16,363900.0,Giải trí,Dịch vụ tiện ích,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100721,1187,2026-03-02,20,340300.0,Y tế,Dịch vụ tiện ích,Hải Phòng,Thẻ,Thiết bị mới
+TX100722,1170,2026-01-11,22,280700.0,Di chuyển,Cửa hàng điện tử,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX100723,1024,2026-02-03,7,186900.0,Hóa đơn,Nhà hàng,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100724,1158,2026-03-13,11,840900.0,Di chuyển,Siêu thị,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX100725,1024,2026-02-25,14,116600.0,Ăn uống,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100726,1145,2026-01-13,8,220700.0,Ăn uống,Cửa hàng trực tuyến,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100727,1018,2026-01-04,21,222300.0,Điện tử,Nhà hàng,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100728,1098,2026-02-22,8,291600.0,Hóa đơn,Siêu thị,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100729,1132,2026-02-11,17,162900.0,Mua sắm,Cửa hàng điện tử,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100730,1146,2026-03-28,21,274200.0,Ăn uống,Dịch vụ tiện ích,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100731,1084,2026-02-17,17,195500.0,Di chuyển,Rạp chiếu phim,Hà Nội,Thẻ,Thiết bị mới
+TX100732,1185,2026-03-25,19,72700.0,Điện tử,Siêu thị,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100733,1155,2026-01-20,11,221500.0,Di chuyển,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100734,1042,2026-02-10,20,101800.0,Điện tử,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100735,1135,2026-01-13,13,65300.0,Hóa đơn,Dịch vụ tiện ích,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100736,1147,2026-02-21,7,242100.0,Y tế,Rạp chiếu phim,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100737,1067,2026-01-17,12,309600.0,Y tế,Rạp chiếu phim,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100738,1148,2026-02-14,12,318100.0,Ăn uống,Taxi,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100739,1180,2026-01-31,15,327200.0,Ăn uống,Nhà thuốc,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100740,1164,2026-01-17,11,56900.0,Điện tử,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100741,1153,2026-01-09,14,84900.0,Điện tử,Siêu thị,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100742,1127,2026-02-16,13,875800.0,Ăn uống,Cửa hàng điện tử,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX100743,1055,2026-03-27,12,105700.0,Giải trí,Siêu thị,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100744,1160,2026-01-18,18,337400.0,Điện tử,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100745,1073,2026-02-06,11,136000.0,Điện tử,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100746,1107,2026-01-21,19,232600.0,Di chuyển,Nhà hàng,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100747,1063,2026-03-14,11,141200.0,Y tế,Taxi,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100748,1063,2026-02-07,20,325900.0,Giải trí,Nhà hàng,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100749,1032,2026-03-29,12,242100.0,Điện tử,Taxi,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100750,1193,2026-01-23,7,160700.0,Mua sắm,Cửa hàng điện tử,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100751,1030,2026-01-08,9,105500.0,Giải trí,Nhà hàng,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX100752,1018,2026-02-22,19,265400.0,Ăn uống,Cửa hàng điện tử,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100753,1188,2026-02-28,20,94100.0,Di chuyển,Taxi,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100754,1112,2026-03-31,10,296700.0,Ăn uống,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100755,1088,2026-03-20,16,1383200.0,Hóa đơn,Taxi,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100756,1148,2026-03-21,16,566100.0,Y tế,Cửa hàng trực tuyến,Hải Phòng,Ví điện tử,Thiết bị mới
+TX100757,1077,2026-02-27,9,363800.0,Giải trí,Siêu thị,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100758,1026,2026-02-02,14,207200.0,Di chuyển,Dịch vụ tiện ích,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100759,1146,2026-02-08,18,56600.0,Di chuyển,Cửa hàng điện tử,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100760,1036,2026-01-13,22,87200.0,Di chuyển,Dịch vụ tiện ích,Cần Thơ,Tiền mặt,Thiết bị mới
+TX100761,1111,2026-02-08,20,540000.0,Y tế,Dịch vụ tiện ích,Hà Nội,Tiền mặt,Thiết bị mới
+TX100762,1190,2026-02-02,8,126600.0,Mua sắm,Rạp chiếu phim,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100763,1188,2026-01-04,10,134800.0,Ăn uống,Taxi,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100764,1073,2026-01-19,13,195900.0,Hóa đơn,Siêu thị,Cần Thơ,Ví điện tử,Thiết bị mới
+TX100765,1157,2026-02-18,9,104600.0,Y tế,Dịch vụ tiện ích,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100766,1123,2026-02-03,16,93200.0,Hóa đơn,Nhà thuốc,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100767,1096,2026-03-31,7,212400.0,Mua sắm,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX100768,1028,2026-02-13,8,117900.0,Ăn uống,Nhà thuốc,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100769,1076,2026-03-28,7,131000.0,Điện tử,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100770,1131,2026-03-01,11,127300.0,Y tế,Nhà hàng,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100771,1198,2026-01-04,19,317100.0,Mua sắm,Dịch vụ tiện ích,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100772,1001,2026-01-19,9,187000.0,Ăn uống,Rạp chiếu phim,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100773,1144,2026-03-05,22,194100.0,Ăn uống,Taxi,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100774,1170,2026-02-19,11,334100.0,Di chuyển,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100775,1191,2026-01-28,7,199200.0,Y tế,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị mới
+TX100776,1085,2026-02-16,12,181100.0,Mua sắm,Rạp chiếu phim,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100777,1024,2026-03-23,18,305800.0,Y tế,Nhà thuốc,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100778,1055,2026-02-04,8,351200.0,Ăn uống,Nhà thuốc,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100779,1171,2026-01-05,8,198500.0,Y tế,Nhà thuốc,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100780,1176,2026-01-28,20,232800.0,Mua sắm,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100781,1128,2026-03-26,16,127300.0,Điện tử,Nhà hàng,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100782,1025,2026-03-10,12,120400.0,Hóa đơn,Siêu thị,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100783,1025,2026-03-17,19,376900.0,Mua sắm,Nhà hàng,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100784,1096,2026-03-24,20,300400.0,Mua sắm,Nhà hàng,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100785,1118,2026-01-11,12,302600.0,Y tế,Rạp chiếu phim,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100786,1007,2026-01-26,15,267800.0,Di chuyển,Dịch vụ tiện ích,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100787,1138,2026-01-06,7,227200.0,Di chuyển,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100788,1109,2026-01-01,11,358200.0,Y tế,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100789,1003,2026-03-17,16,423400.0,Hóa đơn,Rạp chiếu phim,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100790,1020,2026-03-26,10,416300.0,Giải trí,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100791,1091,2026-01-15,22,205000.0,Hóa đơn,Nhà thuốc,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100792,1145,2026-03-06,22,580900.0,Ăn uống,Siêu thị,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100793,1166,2026-02-18,11,258200.0,Ăn uống,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX100794,1087,2026-01-07,13,342500.0,Ăn uống,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100795,1060,2026-03-24,10,268000.0,Giải trí,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100796,1194,2026-03-20,15,261500.0,Hóa đơn,Cửa hàng điện tử,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100797,1092,2026-02-21,8,131400.0,Y tế,Taxi,Đà Nẵng,Thẻ,Thiết bị mới
+TX100798,1064,2026-03-05,13,359400.0,Điện tử,Taxi,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100799,1089,2026-02-05,15,1612200.0,Mua sắm,Cửa hàng trực tuyến,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100800,1003,2026-03-13,16,169200.0,Điện tử,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100801,1061,2026-02-10,16,231200.0,Điện tử,Rạp chiếu phim,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100802,1104,2026-03-31,10,161000.0,Giải trí,Cửa hàng điện tử,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100803,1184,2026-01-06,19,156300.0,Hóa đơn,Rạp chiếu phim,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100804,1148,2026-01-16,18,648600.0,Mua sắm,Rạp chiếu phim,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100805,1157,2026-03-29,19,137400.0,Mua sắm,Taxi,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100806,1109,2026-01-26,14,157900.0,Ăn uống,Siêu thị,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100807,1023,2026-01-28,21,72400.0,Giải trí,Rạp chiếu phim,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100808,1079,2026-03-13,13,129500.0,Hóa đơn,Nhà thuốc,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX100809,1200,2026-01-18,19,66500.0,Mua sắm,Dịch vụ tiện ích,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100810,1009,2026-02-16,10,342400.0,Ăn uống,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100811,1176,2026-01-26,10,1561500.0,Ăn uống,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX100812,1137,2026-01-18,15,170200.0,Giải trí,Cửa hàng điện tử,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100813,1057,2026-03-28,15,68500.0,Giải trí,Nhà hàng,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX100814,1156,2026-01-18,18,413100.0,Giải trí,Nhà hàng,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100815,1168,2026-01-09,11,132300.0,Ăn uống,Rạp chiếu phim,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100816,1009,2026-03-02,20,546300.0,Ăn uống,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100817,1022,2026-03-20,12,180600.0,Ăn uống,Rạp chiếu phim,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100818,1134,2026-01-12,15,141400.0,Y tế,Rạp chiếu phim,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100819,1200,2026-03-05,21,194200.0,Y tế,Cửa hàng trực tuyến,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100820,1005,2026-02-18,15,373900.0,Di chuyển,Siêu thị,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100821,1134,2026-03-16,17,187600.0,Ăn uống,Dịch vụ tiện ích,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX100822,1028,2026-01-12,21,155400.0,Di chuyển,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100823,1131,2026-03-29,22,191400.0,Y tế,Nhà thuốc,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100824,1125,2026-02-25,14,90300.0,Mua sắm,Cửa hàng trực tuyến,Hải Phòng,Thẻ,Thiết bị mới
+TX100825,1019,2026-03-17,13,290500.0,Y tế,Nhà hàng,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100826,1137,2026-02-02,10,63000.0,Hóa đơn,Nhà thuốc,Hà Nội,Thẻ,Thiết bị mới
+TX100827,1180,2026-03-26,15,161200.0,Ăn uống,Rạp chiếu phim,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100828,1173,2026-02-26,21,374400.0,Điện tử,Dịch vụ tiện ích,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX100829,1006,2026-01-12,14,272000.0,Hóa đơn,Cửa hàng điện tử,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100830,1050,2026-03-25,12,332600.0,Giải trí,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100831,1049,2026-03-13,8,210200.0,Ăn uống,Nhà thuốc,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100832,1091,2026-01-28,13,498900.0,Di chuyển,Nhà thuốc,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100833,1029,2026-02-19,10,420300.0,Giải trí,Taxi,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100834,1171,2026-02-04,22,300600.0,Giải trí,Siêu thị,Cần Thơ,Thẻ,Thiết bị mới
+TX100835,1156,2026-02-18,15,421100.0,Ăn uống,Dịch vụ tiện ích,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100836,1162,2026-03-28,9,372000.0,Giải trí,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100837,1040,2026-03-22,8,161700.0,Điện tử,Cửa hàng điện tử,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100838,1003,2026-01-20,20,85900.0,Y tế,Rạp chiếu phim,Cần Thơ,Tiền mặt,Thiết bị mới
+TX100839,1183,2026-03-29,21,295300.0,Mua sắm,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100840,1058,2026-02-09,19,322400.0,Điện tử,Dịch vụ tiện ích,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX100841,1132,2026-03-05,8,472000.0,Giải trí,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100842,1182,2026-03-10,8,114200.0,Ăn uống,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100843,1008,2026-02-13,10,116600.0,Ăn uống,Siêu thị,Đà Nẵng,Thẻ,Thiết bị mới
+TX100844,1002,2026-02-11,19,303600.0,Điện tử,Cửa hàng điện tử,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100845,1002,2026-02-11,19,209300.0,Mua sắm,Nhà thuốc,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100846,1032,2026-03-19,20,58800.0,Ăn uống,Cửa hàng trực tuyến,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX100847,1011,2026-02-04,8,286100.0,Hóa đơn,Taxi,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX100848,1164,2026-01-26,9,60200.0,Hóa đơn,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100849,1122,2026-02-02,21,113500.0,Giải trí,Nhà hàng,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100850,1197,2026-01-18,21,566700.0,Giải trí,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX100851,1161,2026-02-05,18,789200.0,Điện tử,Cửa hàng trực tuyến,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100852,1193,2026-01-11,8,93900.0,Y tế,Rạp chiếu phim,Đà Nẵng,Thẻ,Thiết bị mới
+TX100853,1048,2026-01-09,8,174700.0,Ăn uống,Nhà thuốc,Đà Nẵng,Thẻ,Thiết bị mới
+TX100854,1058,2026-03-07,7,226700.0,Ăn uống,Siêu thị,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100855,1170,2026-01-07,18,765500.0,Ăn uống,Taxi,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100856,1049,2026-02-21,20,155800.0,Di chuyển,Cửa hàng điện tử,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100857,1012,2026-03-12,17,157600.0,Di chuyển,Nhà thuốc,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX100858,1134,2026-03-07,11,650500.0,Điện tử,Nhà thuốc,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100859,1161,2026-02-10,19,169200.0,Di chuyển,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100860,1194,2026-01-18,7,364700.0,Ăn uống,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100861,1186,2026-03-25,20,78200.0,Điện tử,Cửa hàng điện tử,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100862,1025,2026-03-17,21,195100.0,Mua sắm,Rạp chiếu phim,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100863,1155,2026-02-25,18,68800.0,Điện tử,Cửa hàng điện tử,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100864,1170,2026-01-08,21,105100.0,Y tế,Cửa hàng điện tử,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX100865,1140,2026-01-04,16,395900.0,Điện tử,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100866,1164,2026-01-29,14,212400.0,Y tế,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100867,1168,2026-01-15,12,176000.0,Mua sắm,Rạp chiếu phim,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100868,1090,2026-03-19,21,130300.0,Giải trí,Taxi,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100869,1009,2026-01-19,18,188500.0,Di chuyển,Siêu thị,Hà Nội,Tiền mặt,Thiết bị mới
+TX100870,1092,2026-01-26,10,271600.0,Giải trí,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị mới
+TX100871,1041,2026-03-29,22,437800.0,Y tế,Cửa hàng điện tử,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100872,1023,2026-03-15,7,35000.0,Hóa đơn,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100873,1025,2026-01-20,16,122900.0,Di chuyển,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100874,1140,2026-02-04,10,245900.0,Điện tử,Rạp chiếu phim,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100875,1101,2026-02-16,17,205300.0,Giải trí,Rạp chiếu phim,Cần Thơ,Tiền mặt,Thiết bị mới
+TX100876,1108,2026-03-01,13,291800.0,Điện tử,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100877,1150,2026-03-26,13,265300.0,Mua sắm,Nhà thuốc,Hải Phòng,Ví điện tử,Thiết bị mới
+TX100878,1110,2026-03-20,17,177700.0,Y tế,Dịch vụ tiện ích,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100879,1127,2026-03-29,19,152100.0,Di chuyển,Nhà hàng,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100880,1018,2026-01-04,13,185300.0,Hóa đơn,Cửa hàng trực tuyến,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100881,1171,2026-01-22,22,491600.0,Điện tử,Nhà thuốc,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100882,1090,2026-02-20,14,131800.0,Di chuyển,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100883,1032,2026-01-05,9,210500.0,Mua sắm,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100884,1163,2026-02-01,7,250100.0,Điện tử,Rạp chiếu phim,Cần Thơ,Thẻ,Thiết bị mới
+TX100885,1147,2026-01-14,10,655800.0,Điện tử,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100886,1011,2026-03-25,18,178300.0,Di chuyển,Cửa hàng trực tuyến,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100887,1039,2026-01-06,15,430400.0,Di chuyển,Taxi,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100888,1004,2026-01-14,12,521100.0,Mua sắm,Nhà hàng,Đà Nẵng,Thẻ,Thiết bị mới
+TX100889,1055,2026-01-18,14,210400.0,Ăn uống,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX100890,1020,2026-01-14,20,189800.0,Hóa đơn,Nhà hàng,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100891,1142,2026-02-21,16,174700.0,Mua sắm,Dịch vụ tiện ích,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100892,1105,2026-02-02,7,183900.0,Y tế,Rạp chiếu phim,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100893,1197,2026-03-24,7,400100.0,Mua sắm,Cửa hàng điện tử,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100894,1150,2026-01-24,14,258600.0,Giải trí,Siêu thị,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100895,1123,2026-02-18,13,259400.0,Hóa đơn,Cửa hàng trực tuyến,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100896,1102,2026-03-01,20,100100.0,Giải trí,Cửa hàng trực tuyến,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100897,1011,2026-02-26,16,111800.0,Ăn uống,Dịch vụ tiện ích,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100898,1015,2026-03-13,19,986400.0,Hóa đơn,Dịch vụ tiện ích,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100899,1124,2026-01-19,16,194300.0,Giải trí,Cửa hàng điện tử,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100900,1001,2026-02-15,12,127900.0,Di chuyển,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị mới
+TX100901,1009,2026-03-14,17,599100.0,Điện tử,Nhà thuốc,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100902,1044,2026-03-19,16,268000.0,Hóa đơn,Nhà hàng,Hải Phòng,Ví điện tử,Thiết bị mới
+TX100903,1177,2026-02-25,18,329800.0,Di chuyển,Siêu thị,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100904,1092,2026-02-28,10,199700.0,Ăn uống,Cửa hàng điện tử,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100905,1142,2026-03-19,17,176000.0,Mua sắm,Cửa hàng điện tử,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100906,1083,2026-02-26,11,195400.0,Hóa đơn,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100907,1035,2026-03-27,19,83600.0,Di chuyển,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100908,1075,2026-01-12,19,206900.0,Điện tử,Rạp chiếu phim,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100909,1019,2026-02-01,16,270700.0,Y tế,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100910,1155,2026-01-11,22,803500.0,Mua sắm,Cửa hàng điện tử,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100911,1037,2026-01-09,15,233700.0,Giải trí,Dịch vụ tiện ích,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100912,1076,2026-02-12,7,42900.0,Hóa đơn,Nhà thuốc,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100913,1197,2026-01-21,16,206000.0,Ăn uống,Nhà thuốc,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100914,1119,2026-02-06,19,1497100.0,Giải trí,Siêu thị,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100915,1092,2026-02-09,8,403500.0,Hóa đơn,Nhà hàng,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100916,1109,2026-02-25,8,124700.0,Ăn uống,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100917,1157,2026-03-27,11,332800.0,Hóa đơn,Nhà hàng,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100918,1051,2026-03-18,20,130900.0,Y tế,Nhà hàng,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100919,1128,2026-02-04,15,85300.0,Di chuyển,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị mới
+TX100920,1175,2026-01-30,22,172400.0,Di chuyển,Nhà hàng,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100921,1115,2026-03-11,20,234600.0,Ăn uống,Nhà hàng,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100922,1090,2026-01-12,15,59300.0,Mua sắm,Siêu thị,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100923,1030,2026-02-18,17,98400.0,Điện tử,Taxi,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX100924,1050,2026-02-08,12,221600.0,Giải trí,Rạp chiếu phim,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100925,1190,2026-01-17,8,165300.0,Mua sắm,Rạp chiếu phim,Cần Thơ,Tiền mặt,Thiết bị mới
+TX100926,1109,2026-02-25,13,290000.0,Hóa đơn,Cửa hàng điện tử,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100927,1061,2026-01-29,16,94000.0,Mua sắm,Rạp chiếu phim,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100928,1084,2026-01-17,9,362700.0,Hóa đơn,Nhà thuốc,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100929,1116,2026-02-28,10,96100.0,Mua sắm,Nhà hàng,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100930,1108,2026-01-16,7,694700.0,Giải trí,Cửa hàng trực tuyến,Hải Phòng,Thẻ,Thiết bị mới
+TX100931,1140,2026-03-02,18,66200.0,Hóa đơn,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100932,1052,2026-01-15,21,102400.0,Giải trí,Siêu thị,Cần Thơ,Ví điện tử,Thiết bị mới
+TX100933,1130,2026-02-09,20,294600.0,Hóa đơn,Cửa hàng điện tử,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100934,1089,2026-03-14,13,705300.0,Di chuyển,Nhà hàng,Đà Nẵng,Thẻ,Thiết bị mới
+TX100935,1189,2026-01-21,16,274300.0,Mua sắm,Taxi,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100936,1032,2026-03-11,22,326200.0,Mua sắm,Cửa hàng trực tuyến,Hà Nội,Chuyển khoản,Thiết bị mới
+TX100937,1030,2026-03-06,16,222700.0,Hóa đơn,Siêu thị,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100938,1093,2026-03-23,11,107200.0,Hóa đơn,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị mới
+TX100939,1102,2026-01-16,12,156100.0,Giải trí,Nhà hàng,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100940,1139,2026-03-06,18,94200.0,Ăn uống,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX100941,1081,2026-03-26,14,89900.0,Mua sắm,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100942,1183,2026-03-10,20,291400.0,Y tế,Nhà hàng,Hà Nội,Thẻ,Thiết bị mới
+TX100943,1095,2026-01-17,20,100200.0,Điện tử,Cửa hàng điện tử,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100944,1026,2026-03-15,7,275100.0,Điện tử,Nhà hàng,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100945,1024,2026-01-10,18,88400.0,Di chuyển,Cửa hàng trực tuyến,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100946,1195,2026-02-22,12,270700.0,Ăn uống,Cửa hàng trực tuyến,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX100947,1027,2026-02-14,15,156300.0,Mua sắm,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100948,1190,2026-02-17,11,588900.0,Ăn uống,Siêu thị,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100949,1056,2026-02-16,12,276000.0,Điện tử,Dịch vụ tiện ích,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX100950,1019,2026-01-03,12,522500.0,Điện tử,Nhà hàng,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100951,1061,2026-02-15,7,129600.0,Y tế,Siêu thị,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX100952,1123,2026-03-26,19,228800.0,Y tế,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100953,1086,2026-02-09,9,110700.0,Di chuyển,Cửa hàng trực tuyến,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100954,1158,2026-01-25,13,164700.0,Hóa đơn,Taxi,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100955,1123,2026-03-31,10,183100.0,Y tế,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100956,1081,2026-01-09,9,132400.0,Y tế,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100957,1127,2026-02-13,12,94000.0,Hóa đơn,Rạp chiếu phim,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX100958,1195,2026-02-16,21,81800.0,Y tế,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100959,1083,2026-02-13,22,42800.0,Di chuyển,Siêu thị,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX100960,1031,2026-03-24,13,105000.0,Di chuyển,Dịch vụ tiện ích,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100961,1082,2026-02-07,15,341300.0,Y tế,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX100962,1169,2026-03-29,22,71900.0,Di chuyển,Dịch vụ tiện ích,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX100963,1044,2026-01-07,10,84400.0,Y tế,Nhà hàng,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX100964,1190,2026-03-08,22,770700.0,Hóa đơn,Taxi,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX100965,1118,2026-02-23,8,140900.0,Di chuyển,Siêu thị,Đà Nẵng,Thẻ,Thiết bị mới
+TX100966,1121,2026-01-22,10,275400.0,Mua sắm,Cửa hàng điện tử,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100967,1064,2026-01-21,12,344900.0,Giải trí,Dịch vụ tiện ích,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100968,1185,2026-03-06,7,349800.0,Hóa đơn,Siêu thị,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100969,1008,2026-02-27,20,75800.0,Di chuyển,Dịch vụ tiện ích,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX100970,1060,2026-02-25,20,187100.0,Y tế,Cửa hàng điện tử,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX100971,1084,2026-01-05,13,70900.0,Ăn uống,Rạp chiếu phim,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100972,1096,2026-02-23,20,1219300.0,Ăn uống,Cửa hàng trực tuyến,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX100973,1095,2026-03-30,19,72000.0,Điện tử,Cửa hàng điện tử,Cần Thơ,Thẻ,Thiết bị mới
+TX100974,1030,2026-01-02,19,105700.0,Giải trí,Nhà hàng,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX100975,1046,2026-02-12,19,106200.0,Hóa đơn,Nhà hàng,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX100976,1020,2026-02-14,16,77200.0,Ăn uống,Nhà hàng,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX100977,1115,2026-03-22,8,567000.0,Giải trí,Cửa hàng điện tử,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100978,1071,2026-01-26,21,1199100.0,Hóa đơn,Rạp chiếu phim,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100979,1114,2026-02-12,16,157700.0,Giải trí,Dịch vụ tiện ích,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX100980,1118,2026-03-06,21,87300.0,Ăn uống,Rạp chiếu phim,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100981,1141,2026-01-06,22,46000.0,Hóa đơn,Cửa hàng trực tuyến,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100982,1110,2026-03-14,9,185400.0,Giải trí,Siêu thị,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX100983,1130,2026-03-15,13,176300.0,Di chuyển,Nhà thuốc,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX100984,1118,2026-03-06,10,139500.0,Ăn uống,Cửa hàng điện tử,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX100985,1131,2026-02-28,7,256900.0,Điện tử,Siêu thị,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX100986,1124,2026-03-09,22,290100.0,Giải trí,Siêu thị,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX100987,1064,2026-03-12,21,275800.0,Giải trí,Dịch vụ tiện ích,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100988,1050,2026-03-23,21,176300.0,Y tế,Siêu thị,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100989,1158,2026-02-08,21,101700.0,Giải trí,Rạp chiếu phim,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100990,1069,2026-02-11,17,350600.0,Ăn uống,Cửa hàng điện tử,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100991,1110,2026-02-27,15,221900.0,Hóa đơn,Cửa hàng trực tuyến,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX100992,1040,2026-01-18,22,409700.0,Điện tử,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX100993,1087,2026-03-19,15,382500.0,Di chuyển,Nhà thuốc,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX100994,1106,2026-03-11,17,81300.0,Điện tử,Cửa hàng trực tuyến,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX100995,1126,2026-02-26,10,80600.0,Ăn uống,Nhà hàng,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100996,1106,2026-01-28,18,129600.0,Di chuyển,Siêu thị,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX100997,1073,2026-02-01,20,105000.0,Di chuyển,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX100998,1193,2026-02-09,17,373300.0,Giải trí,Cửa hàng điện tử,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX100999,1103,2026-03-01,14,281300.0,Mua sắm,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101000,1162,2026-03-12,10,474900.0,Mua sắm,Nhà thuốc,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101001,1148,2026-03-02,7,290400.0,Giải trí,Nhà hàng,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101002,1112,2026-03-25,17,254600.0,Mua sắm,Nhà hàng,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101003,1178,2026-03-28,17,509500.0,Điện tử,Taxi,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101004,1026,2026-03-05,19,305600.0,Điện tử,Taxi,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101005,1185,2026-02-03,22,230700.0,Di chuyển,Nhà thuốc,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101006,1171,2026-02-23,14,620100.0,Hóa đơn,Rạp chiếu phim,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101007,1101,2026-02-08,20,238500.0,Di chuyển,Nhà hàng,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101008,1147,2026-02-26,18,177800.0,Di chuyển,Dịch vụ tiện ích,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101009,1105,2026-03-15,11,122400.0,Giải trí,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101010,1054,2026-02-03,20,359900.0,Di chuyển,Rạp chiếu phim,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101011,1160,2026-02-15,7,523000.0,Mua sắm,Nhà hàng,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101012,1050,2026-01-05,16,212300.0,Mua sắm,Nhà hàng,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101013,1063,2026-03-08,22,549600.0,Điện tử,Taxi,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101014,1104,2026-02-14,17,55400.0,Mua sắm,Taxi,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101015,1168,2026-02-11,21,211600.0,Di chuyển,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101016,1077,2026-02-17,7,213900.0,Giải trí,Siêu thị,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101017,1099,2026-01-20,15,132300.0,Ăn uống,Siêu thị,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101018,1009,2026-02-23,19,1167200.0,Mua sắm,Dịch vụ tiện ích,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101019,1024,2026-03-09,17,210000.0,Mua sắm,Cửa hàng điện tử,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101020,1012,2026-02-01,21,165400.0,Điện tử,Dịch vụ tiện ích,Hà Nội,Chuyển khoản,Thiết bị mới
+TX101021,1015,2026-01-12,14,224000.0,Điện tử,Taxi,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101022,1174,2026-02-04,17,54100.0,Y tế,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị mới
+TX101023,1169,2026-01-18,13,129200.0,Mua sắm,Rạp chiếu phim,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101024,1165,2026-02-03,20,437900.0,Giải trí,Rạp chiếu phim,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101025,1012,2026-02-26,8,141700.0,Giải trí,Dịch vụ tiện ích,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101026,1016,2026-01-11,11,123200.0,Điện tử,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101027,1057,2026-03-09,8,550200.0,Mua sắm,Dịch vụ tiện ích,Hải Phòng,Ví điện tử,Thiết bị mới
+TX101028,1114,2026-01-21,18,562200.0,Y tế,Dịch vụ tiện ích,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101029,1067,2026-03-22,10,315900.0,Mua sắm,Dịch vụ tiện ích,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101030,1098,2026-03-07,12,160000.0,Hóa đơn,Nhà thuốc,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101031,1035,2026-01-25,20,186000.0,Điện tử,Cửa hàng điện tử,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101032,1147,2026-02-20,12,125300.0,Ăn uống,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101033,1063,2026-01-10,9,109600.0,Mua sắm,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101034,1014,2026-01-09,7,105900.0,Y tế,Siêu thị,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101035,1149,2026-03-28,10,142700.0,Ăn uống,Dịch vụ tiện ích,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101036,1181,2026-03-14,21,106600.0,Giải trí,Cửa hàng điện tử,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101037,1003,2026-01-14,15,73600.0,Hóa đơn,Rạp chiếu phim,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101038,1088,2026-01-26,22,256500.0,Di chuyển,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101039,1166,2026-01-18,10,259300.0,Điện tử,Dịch vụ tiện ích,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101040,1142,2026-02-05,12,723600.0,Y tế,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101041,1172,2026-01-27,9,137800.0,Di chuyển,Taxi,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101042,1084,2026-01-30,13,270700.0,Ăn uống,Nhà hàng,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101043,1075,2026-02-17,16,273800.0,Ăn uống,Dịch vụ tiện ích,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101044,1142,2026-01-18,19,184200.0,Ăn uống,Nhà hàng,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101045,1031,2026-03-21,12,370400.0,Điện tử,Taxi,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101046,1048,2026-03-07,19,378500.0,Giải trí,Cửa hàng điện tử,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101047,1121,2026-03-10,17,276700.0,Giải trí,Nhà thuốc,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101048,1134,2026-01-16,11,184000.0,Mua sắm,Taxi,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101049,1024,2026-03-05,21,171300.0,Y tế,Cửa hàng điện tử,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101050,1102,2026-03-17,13,84500.0,Y tế,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101051,1073,2026-01-16,9,125100.0,Y tế,Cửa hàng điện tử,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101052,1101,2026-03-09,22,142300.0,Hóa đơn,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101053,1192,2026-02-02,21,100200.0,Giải trí,Nhà thuốc,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101054,1016,2026-03-12,7,299300.0,Hóa đơn,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101055,1200,2026-02-13,21,508400.0,Di chuyển,Dịch vụ tiện ích,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101056,1090,2026-03-14,22,116500.0,Giải trí,Dịch vụ tiện ích,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX101057,1155,2026-01-14,20,268300.0,Di chuyển,Rạp chiếu phim,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101058,1085,2026-02-05,11,106700.0,Điện tử,Nhà hàng,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101059,1063,2026-01-25,17,177700.0,Y tế,Nhà hàng,Hải Phòng,Thẻ,Thiết bị mới
+TX101060,1155,2026-01-23,15,135700.0,Y tế,Cửa hàng trực tuyến,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX101061,1138,2026-01-28,16,335300.0,Y tế,Taxi,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101062,1029,2026-02-04,16,136800.0,Hóa đơn,Rạp chiếu phim,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101063,1142,2026-01-12,17,446700.0,Điện tử,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX101064,1151,2026-03-05,15,185200.0,Mua sắm,Dịch vụ tiện ích,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101065,1078,2026-02-19,18,139600.0,Hóa đơn,Siêu thị,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101066,1186,2026-03-16,15,91500.0,Ăn uống,Siêu thị,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101067,1129,2026-03-05,7,262700.0,Di chuyển,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101068,1067,2026-01-14,7,411700.0,Giải trí,Nhà thuốc,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101069,1003,2026-01-07,22,266400.0,Hóa đơn,Nhà thuốc,Hải Phòng,Ví điện tử,Thiết bị mới
+TX101070,1135,2026-02-08,21,1054500.0,Điện tử,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX101071,1042,2026-02-13,16,598500.0,Giải trí,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101072,1152,2026-01-22,9,177400.0,Di chuyển,Rạp chiếu phim,Hà Nội,Thẻ,Thiết bị mới
+TX101073,1106,2026-03-12,19,176100.0,Di chuyển,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101074,1094,2026-02-22,9,305600.0,Giải trí,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101075,1033,2026-03-09,13,122400.0,Y tế,Rạp chiếu phim,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101076,1143,2026-01-10,12,497700.0,Mua sắm,Taxi,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101077,1034,2026-03-15,7,283400.0,Giải trí,Taxi,Cần Thơ,Tiền mặt,Thiết bị mới
+TX101078,1084,2026-01-19,19,263300.0,Giải trí,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101079,1168,2026-02-10,15,355800.0,Ăn uống,Nhà thuốc,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101080,1185,2026-02-09,12,734800.0,Điện tử,Cửa hàng điện tử,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX101081,1198,2026-03-15,15,248000.0,Hóa đơn,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101082,1192,2026-01-25,7,203300.0,Mua sắm,Nhà thuốc,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101083,1112,2026-01-22,13,632500.0,Giải trí,Cửa hàng trực tuyến,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101084,1041,2026-01-31,15,433100.0,Giải trí,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101085,1168,2026-02-02,12,175700.0,Điện tử,Nhà hàng,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101086,1161,2026-01-17,20,220800.0,Ăn uống,Cửa hàng điện tử,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101087,1199,2026-01-16,10,252200.0,Di chuyển,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101088,1131,2026-01-21,9,283400.0,Mua sắm,Taxi,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101089,1029,2026-02-12,15,85100.0,Giải trí,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101090,1101,2026-01-31,21,74700.0,Hóa đơn,Siêu thị,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101091,1090,2026-02-05,13,118200.0,Hóa đơn,Taxi,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101092,1169,2026-03-06,7,112000.0,Điện tử,Dịch vụ tiện ích,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101093,1079,2026-01-22,22,140200.0,Hóa đơn,Siêu thị,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101094,1066,2026-03-23,14,343100.0,Di chuyển,Nhà thuốc,Hà Nội,Tiền mặt,Thiết bị mới
+TX101095,1017,2026-03-09,9,195500.0,Ăn uống,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101096,1168,2026-01-16,16,252400.0,Di chuyển,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101097,1152,2026-01-29,12,93400.0,Điện tử,Cửa hàng trực tuyến,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101098,1009,2026-01-17,22,159300.0,Hóa đơn,Taxi,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX101099,1087,2026-01-25,11,331900.0,Điện tử,Nhà hàng,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101100,1096,2026-02-02,15,333700.0,Hóa đơn,Nhà thuốc,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX101101,1094,2026-01-12,15,132500.0,Hóa đơn,Rạp chiếu phim,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101102,1184,2026-01-02,10,246400.0,Hóa đơn,Siêu thị,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101103,1031,2026-02-09,14,1025400.0,Hóa đơn,Siêu thị,Cần Thơ,Ví điện tử,Thiết bị mới
+TX101104,1062,2026-03-05,8,217300.0,Ăn uống,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101105,1037,2026-01-28,17,135400.0,Ăn uống,Nhà thuốc,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101106,1049,2026-03-19,19,194800.0,Hóa đơn,Siêu thị,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101107,1182,2026-02-03,22,234700.0,Giải trí,Nhà hàng,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101108,1189,2026-03-23,12,197900.0,Hóa đơn,Dịch vụ tiện ích,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101109,1009,2026-01-22,11,215200.0,Hóa đơn,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX101110,1127,2026-02-18,15,80100.0,Di chuyển,Cửa hàng trực tuyến,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101111,1047,2026-03-10,18,112100.0,Giải trí,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101112,1039,2026-01-06,22,198200.0,Giải trí,Taxi,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101113,1059,2026-03-25,7,196000.0,Ăn uống,Rạp chiếu phim,Hải Phòng,Thẻ,Thiết bị mới
+TX101114,1039,2026-02-02,10,148000.0,Hóa đơn,Taxi,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101115,1099,2026-02-14,11,194400.0,Giải trí,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101116,1200,2026-02-26,11,229600.0,Y tế,Taxi,Hà Nội,Chuyển khoản,Thiết bị mới
+TX101117,1118,2026-02-27,14,410000.0,Di chuyển,Dịch vụ tiện ích,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101118,1145,2026-01-03,20,205200.0,Điện tử,Nhà hàng,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101119,1099,2026-03-20,7,290900.0,Giải trí,Siêu thị,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101120,1003,2026-02-26,20,150600.0,Hóa đơn,Nhà hàng,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101121,1017,2026-03-31,16,328400.0,Giải trí,Cửa hàng điện tử,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101122,1054,2026-02-12,16,286200.0,Điện tử,Rạp chiếu phim,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101123,1049,2026-02-25,17,403300.0,Mua sắm,Nhà hàng,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101124,1169,2026-02-09,8,362500.0,Mua sắm,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101125,1169,2026-03-22,18,332200.0,Hóa đơn,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101126,1171,2026-03-16,10,205400.0,Ăn uống,Nhà hàng,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101127,1128,2026-03-23,15,261100.0,Y tế,Nhà thuốc,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101128,1112,2026-02-15,17,463200.0,Điện tử,Cửa hàng điện tử,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101129,1130,2026-03-13,16,139400.0,Giải trí,Nhà hàng,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101130,1082,2026-02-02,12,141700.0,Điện tử,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị mới
+TX101131,1135,2026-02-11,13,249800.0,Ăn uống,Cửa hàng trực tuyến,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101132,1159,2026-03-10,14,294200.0,Giải trí,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101133,1153,2026-01-08,7,123600.0,Hóa đơn,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101134,1123,2026-03-05,18,208800.0,Mua sắm,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101135,1012,2026-01-02,8,206000.0,Di chuyển,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101136,1145,2026-02-22,14,46700.0,Hóa đơn,Nhà hàng,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101137,1074,2026-02-12,17,188700.0,Giải trí,Siêu thị,Hà Nội,Thẻ,Thiết bị mới
+TX101138,1149,2026-02-12,8,197100.0,Mua sắm,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101139,1108,2026-02-14,22,196600.0,Giải trí,Taxi,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101140,1177,2026-02-14,13,592700.0,Điện tử,Dịch vụ tiện ích,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101141,1068,2026-02-06,7,93900.0,Ăn uống,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX101142,1187,2026-02-10,17,123500.0,Điện tử,Nhà hàng,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101143,1169,2026-02-21,15,35300.0,Giải trí,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101144,1067,2026-03-10,17,157100.0,Di chuyển,Cửa hàng điện tử,Hà Nội,Tiền mặt,Thiết bị mới
+TX101145,1097,2026-02-19,19,166800.0,Y tế,Rạp chiếu phim,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101146,1107,2026-02-27,14,154000.0,Giải trí,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101147,1154,2026-03-17,20,477700.0,Y tế,Dịch vụ tiện ích,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101148,1138,2026-03-31,12,401800.0,Ăn uống,Cửa hàng trực tuyến,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101149,1171,2026-01-10,15,232300.0,Ăn uống,Nhà hàng,Hà Nội,Ví điện tử,Thiết bị mới
+TX101150,1074,2026-03-06,9,169700.0,Giải trí,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101151,1101,2026-01-21,16,451200.0,Di chuyển,Rạp chiếu phim,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101152,1087,2026-01-18,11,217000.0,Mua sắm,Rạp chiếu phim,Đà Nẵng,Thẻ,Thiết bị mới
+TX101153,1182,2026-03-13,18,124100.0,Di chuyển,Rạp chiếu phim,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX101154,1061,2026-01-07,19,66200.0,Y tế,Dịch vụ tiện ích,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101155,1118,2026-03-18,20,161500.0,Mua sắm,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101156,1025,2026-03-11,21,373100.0,Điện tử,Rạp chiếu phim,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101157,1171,2026-03-31,8,1082700.0,Di chuyển,Cửa hàng điện tử,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101158,1077,2026-03-02,9,229700.0,Mua sắm,Rạp chiếu phim,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101159,1069,2026-03-20,21,128800.0,Ăn uống,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101160,1117,2026-01-11,13,96000.0,Điện tử,Nhà hàng,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101161,1100,2026-03-22,7,323800.0,Ăn uống,Nhà thuốc,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101162,1170,2026-01-15,11,64000.0,Di chuyển,Taxi,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101163,1107,2026-01-29,20,323400.0,Giải trí,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101164,1104,2026-01-12,12,390000.0,Hóa đơn,Taxi,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101165,1021,2026-02-06,8,298600.0,Mua sắm,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101166,1005,2026-03-09,18,188600.0,Ăn uống,Cửa hàng điện tử,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101167,1080,2026-01-25,10,326700.0,Giải trí,Rạp chiếu phim,Cần Thơ,Ví điện tử,Thiết bị mới
+TX101168,1200,2026-03-15,12,248000.0,Hóa đơn,Cửa hàng trực tuyến,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101169,1184,2026-02-24,7,127600.0,Ăn uống,Nhà thuốc,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101170,1126,2026-02-26,16,803500.0,Mua sắm,Siêu thị,Đà Nẵng,Thẻ,Thiết bị mới
+TX101171,1127,2026-03-26,14,172000.0,Hóa đơn,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101172,1079,2026-02-08,20,378700.0,Mua sắm,Rạp chiếu phim,Hà Nội,Thẻ,Thiết bị mới
+TX101173,1036,2026-02-01,12,40500.0,Di chuyển,Siêu thị,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101174,1002,2026-03-31,10,537600.0,Ăn uống,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101175,1068,2026-02-20,9,615100.0,Y tế,Nhà thuốc,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101176,1064,2026-02-25,10,224600.0,Giải trí,Dịch vụ tiện ích,Hà Nội,Thẻ,Thiết bị mới
+TX101177,1039,2026-01-27,14,325300.0,Y tế,Nhà hàng,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX101178,1052,2026-01-20,8,325200.0,Ăn uống,Rạp chiếu phim,Hải Phòng,Thẻ,Thiết bị mới
+TX101179,1005,2026-01-16,13,140300.0,Di chuyển,Cửa hàng trực tuyến,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101180,1122,2026-01-21,20,322700.0,Mua sắm,Rạp chiếu phim,Hải Phòng,Thẻ,Thiết bị mới
+TX101181,1186,2026-01-18,19,124900.0,Giải trí,Rạp chiếu phim,Hải Phòng,Ví điện tử,Thiết bị mới
+TX101182,1139,2026-03-09,17,143700.0,Y tế,Siêu thị,Hà Nội,Tiền mặt,Thiết bị mới
+TX101183,1090,2026-01-06,21,484200.0,Mua sắm,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101184,1085,2026-02-26,19,435200.0,Y tế,Siêu thị,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101185,1062,2026-03-27,17,134200.0,Giải trí,Siêu thị,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101186,1029,2026-03-10,20,131600.0,Y tế,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101187,1120,2026-02-06,8,140000.0,Ăn uống,Siêu thị,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101188,1114,2026-01-06,20,367400.0,Điện tử,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101189,1002,2026-03-17,11,109200.0,Hóa đơn,Cửa hàng điện tử,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101190,1084,2026-01-01,18,282400.0,Mua sắm,Nhà hàng,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101191,1056,2026-03-03,21,371100.0,Mua sắm,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101192,1035,2026-03-02,14,206800.0,Điện tử,Rạp chiếu phim,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101193,1141,2026-01-18,8,446200.0,Điện tử,Rạp chiếu phim,Cần Thơ,Ví điện tử,Thiết bị mới
+TX101194,1106,2026-03-08,12,177800.0,Ăn uống,Dịch vụ tiện ích,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX101195,1127,2026-01-16,13,189400.0,Hóa đơn,Cửa hàng điện tử,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX101196,1143,2026-01-21,21,111000.0,Y tế,Rạp chiếu phim,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101197,1197,2026-03-15,22,448400.0,Giải trí,Rạp chiếu phim,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101198,1161,2026-03-30,16,128600.0,Mua sắm,Dịch vụ tiện ích,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101199,1125,2026-01-24,22,281000.0,Di chuyển,Dịch vụ tiện ích,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101200,1176,2026-03-24,13,209300.0,Di chuyển,Cửa hàng trực tuyến,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101201,1096,2026-03-24,13,105300.0,Di chuyển,Dịch vụ tiện ích,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX101202,1197,2026-03-11,20,143600.0,Điện tử,Cửa hàng điện tử,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101203,1153,2026-01-13,17,579200.0,Mua sắm,Taxi,Hải Phòng,Thẻ,Thiết bị mới
+TX101204,1131,2026-01-27,15,253400.0,Giải trí,Nhà hàng,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101205,1181,2026-03-02,14,108600.0,Điện tử,Dịch vụ tiện ích,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101206,1104,2026-03-31,18,272400.0,Y tế,Nhà thuốc,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101207,1145,2026-03-15,19,198600.0,Y tế,Cửa hàng điện tử,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101208,1057,2026-02-07,14,2468700.0,Mua sắm,Dịch vụ tiện ích,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101209,1193,2026-01-22,7,268600.0,Ăn uống,Nhà thuốc,Hà Nội,Chuyển khoản,Thiết bị mới
+TX101210,1125,2026-03-28,8,168500.0,Y tế,Cửa hàng trực tuyến,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101211,1157,2026-01-25,9,594500.0,Y tế,Taxi,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101212,1093,2026-01-31,14,60600.0,Y tế,Taxi,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101213,1174,2026-03-28,16,235000.0,Di chuyển,Cửa hàng trực tuyến,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101214,1015,2026-02-20,19,888700.0,Hóa đơn,Rạp chiếu phim,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101215,1023,2026-01-24,10,202800.0,Ăn uống,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị mới
+TX101216,1102,2026-01-01,19,65400.0,Di chuyển,Cửa hàng trực tuyến,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101217,1147,2026-02-08,17,166700.0,Hóa đơn,Nhà hàng,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101218,1162,2026-03-30,7,609000.0,Ăn uống,Nhà thuốc,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101219,1089,2026-02-08,12,286300.0,Ăn uống,Nhà thuốc,Cần Thơ,Tiền mặt,Thiết bị mới
+TX101220,1130,2026-03-04,11,122300.0,Ăn uống,Cửa hàng điện tử,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101221,1111,2026-01-23,21,136200.0,Mua sắm,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101222,1193,2026-03-11,21,148700.0,Điện tử,Rạp chiếu phim,Hải Phòng,Ví điện tử,Thiết bị mới
+TX101223,1131,2026-03-11,20,283300.0,Giải trí,Rạp chiếu phim,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101224,1084,2026-02-24,15,561400.0,Điện tử,Nhà thuốc,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101225,1194,2026-03-11,14,459600.0,Mua sắm,Nhà thuốc,Hải Phòng,Ví điện tử,Thiết bị mới
+TX101226,1022,2026-02-22,11,302700.0,Giải trí,Cửa hàng điện tử,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX101227,1197,2026-02-04,19,86600.0,Điện tử,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX101228,1031,2026-03-08,8,86800.0,Di chuyển,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101229,1058,2026-03-17,11,319500.0,Giải trí,Nhà hàng,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101230,1165,2026-03-17,9,85800.0,Giải trí,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị mới
+TX101231,1147,2026-01-20,14,187900.0,Y tế,Nhà thuốc,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101232,1195,2026-03-02,11,272200.0,Điện tử,Siêu thị,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101233,1150,2026-01-01,10,99200.0,Giải trí,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101234,1128,2026-02-21,13,107400.0,Giải trí,Nhà hàng,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101235,1070,2026-02-21,20,206000.0,Điện tử,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị mới
+TX101236,1001,2026-02-02,15,313000.0,Giải trí,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101237,1025,2026-03-31,20,462500.0,Di chuyển,Dịch vụ tiện ích,Cần Thơ,Tiền mặt,Thiết bị mới
+TX101238,1060,2026-03-21,21,336500.0,Giải trí,Taxi,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101239,1009,2026-01-04,21,231600.0,Hóa đơn,Taxi,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101240,1102,2026-01-19,12,130500.0,Mua sắm,Rạp chiếu phim,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101241,1156,2026-01-19,21,104000.0,Hóa đơn,Rạp chiếu phim,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101242,1193,2026-03-22,21,153900.0,Giải trí,Siêu thị,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101243,1098,2026-02-16,22,293100.0,Điện tử,Nhà hàng,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101244,1176,2026-03-07,12,278500.0,Giải trí,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101245,1198,2026-03-14,10,50600.0,Mua sắm,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101246,1172,2026-03-11,16,126900.0,Điện tử,Cửa hàng điện tử,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101247,1093,2026-01-09,21,511200.0,Giải trí,Cửa hàng điện tử,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101248,1066,2026-01-13,21,232500.0,Di chuyển,Rạp chiếu phim,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101249,1196,2026-02-05,16,81600.0,Y tế,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101250,1049,2026-01-31,9,1144500.0,Di chuyển,Siêu thị,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101251,1083,2026-03-09,13,215600.0,Di chuyển,Taxi,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101252,1015,2026-01-15,18,287900.0,Y tế,Dịch vụ tiện ích,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101253,1159,2026-02-03,15,291000.0,Điện tử,Rạp chiếu phim,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101254,1130,2026-01-22,12,170100.0,Hóa đơn,Nhà hàng,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101255,1017,2026-01-17,12,132200.0,Di chuyển,Cửa hàng điện tử,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101256,1045,2026-01-16,7,971500.0,Điện tử,Taxi,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX101257,1112,2026-01-18,11,444000.0,Mua sắm,Dịch vụ tiện ích,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101258,1109,2026-02-20,17,391100.0,Y tế,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX101259,1161,2026-02-06,10,329300.0,Giải trí,Nhà thuốc,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101260,1054,2026-02-09,22,109000.0,Y tế,Dịch vụ tiện ích,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101261,1185,2026-02-13,8,538000.0,Di chuyển,Nhà hàng,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101262,1089,2026-03-08,16,121900.0,Y tế,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101263,1165,2026-03-19,14,268300.0,Ăn uống,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101264,1048,2026-02-17,20,69800.0,Y tế,Siêu thị,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101265,1008,2026-02-27,21,52700.0,Ăn uống,Cửa hàng điện tử,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101266,1012,2026-03-08,15,274900.0,Giải trí,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101267,1075,2026-03-04,17,124900.0,Mua sắm,Cửa hàng điện tử,Hải Phòng,Ví điện tử,Thiết bị mới
+TX101268,1191,2026-01-13,18,54700.0,Điện tử,Cửa hàng trực tuyến,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101269,1010,2026-03-30,15,321200.0,Y tế,Dịch vụ tiện ích,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101270,1074,2026-01-15,9,970400.0,Ăn uống,Taxi,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101271,1022,2026-02-07,13,581900.0,Điện tử,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101272,1187,2026-02-28,10,183700.0,Mua sắm,Dịch vụ tiện ích,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101273,1136,2026-02-06,14,221400.0,Hóa đơn,Taxi,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101274,1153,2026-01-22,16,409500.0,Ăn uống,Nhà thuốc,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101275,1143,2026-03-25,10,482600.0,Ăn uống,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101276,1132,2026-01-07,10,173000.0,Mua sắm,Nhà hàng,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101277,1155,2026-01-23,20,225300.0,Hóa đơn,Cửa hàng điện tử,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101278,1002,2026-03-31,13,271500.0,Hóa đơn,Cửa hàng điện tử,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101279,1174,2026-03-07,10,324200.0,Y tế,Nhà thuốc,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101280,1148,2026-01-08,18,200400.0,Mua sắm,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX101281,1148,2026-03-09,18,202300.0,Y tế,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101282,1079,2026-03-29,20,578000.0,Ăn uống,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101283,1161,2026-01-09,19,513000.0,Di chuyển,Cửa hàng trực tuyến,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101284,1077,2026-02-07,22,307300.0,Mua sắm,Rạp chiếu phim,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX101285,1010,2026-02-12,16,732900.0,Ăn uống,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101286,1182,2026-01-12,11,167900.0,Giải trí,Taxi,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101287,1047,2026-01-19,20,685200.0,Điện tử,Siêu thị,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101288,1021,2026-01-16,11,321600.0,Giải trí,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101289,1125,2026-01-17,11,2171900.0,Y tế,Rạp chiếu phim,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101290,1047,2026-02-06,20,95500.0,Giải trí,Dịch vụ tiện ích,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101291,1172,2026-02-11,21,135800.0,Ăn uống,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101292,1089,2026-01-22,12,294900.0,Di chuyển,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101293,1001,2026-01-27,18,290500.0,Y tế,Nhà hàng,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101294,1191,2026-01-18,21,861500.0,Ăn uống,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101295,1103,2026-03-13,19,137800.0,Ăn uống,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101296,1053,2026-01-20,7,414500.0,Y tế,Taxi,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101297,1136,2026-03-23,17,496400.0,Ăn uống,Cửa hàng điện tử,Đà Nẵng,Thẻ,Thiết bị mới
+TX101298,1107,2026-02-18,9,360300.0,Điện tử,Siêu thị,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101299,1006,2026-03-14,20,112300.0,Y tế,Siêu thị,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101300,1152,2026-02-27,8,589400.0,Giải trí,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101301,1081,2026-01-24,22,520200.0,Hóa đơn,Taxi,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101302,1140,2026-02-24,9,334700.0,Ăn uống,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101303,1180,2026-01-25,13,253800.0,Di chuyển,Taxi,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101304,1123,2026-01-11,10,257700.0,Y tế,Taxi,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101305,1135,2026-01-23,20,208200.0,Điện tử,Nhà hàng,Hà Nội,Thẻ,Thiết bị mới
+TX101306,1051,2026-01-25,13,344500.0,Hóa đơn,Taxi,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101307,1048,2026-01-13,18,224800.0,Y tế,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị mới
+TX101308,1084,2026-01-03,8,121500.0,Y tế,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101309,1171,2026-03-26,14,105600.0,Ăn uống,Dịch vụ tiện ích,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX101310,1105,2026-02-16,21,130000.0,Giải trí,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101311,1070,2026-02-06,21,257000.0,Giải trí,Nhà hàng,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101312,1156,2026-03-25,10,215900.0,Hóa đơn,Nhà hàng,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101313,1171,2026-01-21,13,255800.0,Y tế,Nhà hàng,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX101314,1181,2026-02-06,13,312400.0,Điện tử,Dịch vụ tiện ích,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101315,1060,2026-03-18,16,141800.0,Hóa đơn,Nhà thuốc,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101316,1142,2026-02-26,15,613800.0,Di chuyển,Cửa hàng điện tử,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101317,1119,2026-02-05,8,182400.0,Điện tử,Cửa hàng trực tuyến,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101318,1090,2026-01-24,19,162400.0,Điện tử,Siêu thị,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101319,1080,2026-01-04,10,308400.0,Giải trí,Rạp chiếu phim,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX101320,1023,2026-01-08,12,60800.0,Giải trí,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101321,1055,2026-01-15,20,126500.0,Ăn uống,Rạp chiếu phim,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101322,1110,2026-03-12,18,437200.0,Di chuyển,Taxi,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101323,1178,2026-02-27,13,65200.0,Mua sắm,Nhà thuốc,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101324,1174,2026-02-09,21,481000.0,Hóa đơn,Rạp chiếu phim,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101325,1038,2026-03-12,13,633600.0,Y tế,Rạp chiếu phim,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101326,1136,2026-01-15,16,169900.0,Mua sắm,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101327,1017,2026-01-19,10,269900.0,Điện tử,Nhà thuốc,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101328,1136,2026-02-05,9,481500.0,Ăn uống,Dịch vụ tiện ích,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101329,1069,2026-03-24,14,158700.0,Ăn uống,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101330,1090,2026-02-25,16,403900.0,Điện tử,Cửa hàng trực tuyến,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101331,1144,2026-03-18,19,137500.0,Ăn uống,Taxi,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101332,1085,2026-01-23,13,157500.0,Y tế,Nhà thuốc,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101333,1162,2026-03-18,21,125700.0,Y tế,Taxi,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101334,1107,2026-01-07,16,279600.0,Di chuyển,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX101335,1200,2026-01-21,8,494800.0,Ăn uống,Taxi,Cần Thơ,Ví điện tử,Thiết bị mới
+TX101336,1128,2026-02-17,18,193400.0,Di chuyển,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101337,1060,2026-01-05,16,90400.0,Ăn uống,Taxi,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101338,1156,2026-03-19,13,103100.0,Giải trí,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101339,1082,2026-03-20,14,290000.0,Điện tử,Nhà hàng,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101340,1107,2026-02-18,11,799900.0,Điện tử,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101341,1028,2026-01-28,16,289800.0,Y tế,Taxi,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101342,1024,2026-01-09,16,167800.0,Y tế,Siêu thị,Cần Thơ,Ví điện tử,Thiết bị mới
+TX101343,1115,2026-02-25,14,376100.0,Điện tử,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX101344,1038,2026-02-18,11,186000.0,Y tế,Cửa hàng trực tuyến,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101345,1200,2026-03-10,13,168800.0,Giải trí,Siêu thị,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101346,1172,2026-02-24,14,112500.0,Điện tử,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101347,1141,2026-01-12,14,589700.0,Di chuyển,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101348,1147,2026-01-11,11,37200.0,Di chuyển,Nhà hàng,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101349,1120,2026-03-12,16,384600.0,Điện tử,Nhà thuốc,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101350,1013,2026-01-15,10,159000.0,Di chuyển,Siêu thị,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101351,1079,2026-03-26,15,165100.0,Di chuyển,Dịch vụ tiện ích,Hà Nội,Ví điện tử,Thiết bị mới
+TX101352,1100,2026-01-10,8,719300.0,Mua sắm,Rạp chiếu phim,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101353,1184,2026-03-07,14,133500.0,Mua sắm,Nhà thuốc,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101354,1044,2026-03-29,19,136700.0,Giải trí,Dịch vụ tiện ích,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101355,1100,2026-02-09,20,200800.0,Điện tử,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101356,1069,2026-01-06,18,293900.0,Ăn uống,Nhà thuốc,Hà Nội,Chuyển khoản,Thiết bị mới
+TX101357,1027,2026-03-20,18,161500.0,Giải trí,Nhà thuốc,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX101358,1021,2026-01-17,8,73100.0,Y tế,Nhà hàng,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101359,1074,2026-02-17,12,120000.0,Điện tử,Nhà thuốc,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101360,1017,2026-03-30,17,539500.0,Y tế,Taxi,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101361,1014,2026-03-09,19,231800.0,Mua sắm,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101362,1071,2026-01-05,16,301700.0,Hóa đơn,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101363,1041,2026-03-15,20,183200.0,Điện tử,Cửa hàng điện tử,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101364,1111,2026-01-15,11,138700.0,Điện tử,Nhà hàng,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101365,1004,2026-03-09,9,711900.0,Giải trí,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101366,1061,2026-02-25,8,192800.0,Điện tử,Cửa hàng điện tử,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101367,1091,2026-01-26,16,161300.0,Giải trí,Dịch vụ tiện ích,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101368,1193,2026-02-08,17,473900.0,Ăn uống,Nhà hàng,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101369,1127,2026-01-11,11,132700.0,Điện tử,Nhà thuốc,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101370,1177,2026-03-30,19,145100.0,Mua sắm,Taxi,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101371,1069,2026-01-22,18,221600.0,Di chuyển,Cửa hàng trực tuyến,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101372,1090,2026-01-28,12,220000.0,Mua sắm,Cửa hàng trực tuyến,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101373,1085,2026-02-15,10,263800.0,Y tế,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101374,1178,2026-03-02,18,951300.0,Ăn uống,Nhà hàng,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101375,1192,2026-02-15,17,278400.0,Giải trí,Cửa hàng trực tuyến,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101376,1193,2026-02-15,9,41600.0,Điện tử,Cửa hàng trực tuyến,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101377,1151,2026-02-22,11,276500.0,Y tế,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101378,1101,2026-03-19,14,225900.0,Di chuyển,Nhà thuốc,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101379,1109,2026-02-05,15,226800.0,Điện tử,Siêu thị,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101380,1197,2026-03-16,9,261300.0,Di chuyển,Cửa hàng điện tử,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101381,1057,2026-03-12,22,215600.0,Giải trí,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101382,1070,2026-03-28,13,212000.0,Hóa đơn,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101383,1180,2026-03-24,13,337900.0,Ăn uống,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX101384,1078,2026-03-13,7,150500.0,Ăn uống,Cửa hàng trực tuyến,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101385,1048,2026-01-23,21,113300.0,Mua sắm,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101386,1113,2026-03-11,10,1826700.0,Điện tử,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị mới
+TX101387,1066,2026-03-08,22,133300.0,Điện tử,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị mới
+TX101388,1179,2026-01-27,14,236000.0,Di chuyển,Nhà thuốc,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101389,1182,2026-03-03,20,77200.0,Điện tử,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX101390,1062,2026-01-23,9,238700.0,Ăn uống,Siêu thị,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101391,1106,2026-02-17,9,114500.0,Điện tử,Rạp chiếu phim,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101392,1197,2026-03-13,19,161400.0,Mua sắm,Nhà hàng,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101393,1149,2026-01-17,20,457200.0,Ăn uống,Siêu thị,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX101394,1044,2026-01-31,15,306100.0,Y tế,Taxi,Hải Phòng,Ví điện tử,Thiết bị mới
+TX101395,1119,2026-03-13,7,327500.0,Di chuyển,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX101396,1124,2026-02-10,22,63700.0,Di chuyển,Siêu thị,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101397,1131,2026-03-28,13,795900.0,Y tế,Nhà thuốc,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101398,1006,2026-01-01,21,95500.0,Di chuyển,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị mới
+TX101399,1060,2026-03-06,20,641400.0,Y tế,Cửa hàng điện tử,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101400,1171,2026-03-15,20,449800.0,Mua sắm,Taxi,Cần Thơ,Ví điện tử,Thiết bị mới
+TX101401,1049,2026-03-24,18,329600.0,Ăn uống,Taxi,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101402,1060,2026-01-15,17,120900.0,Di chuyển,Nhà thuốc,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101403,1065,2026-03-30,15,244600.0,Giải trí,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101404,1036,2026-02-05,7,158200.0,Mua sắm,Cửa hàng trực tuyến,Đà Nẵng,Thẻ,Thiết bị mới
+TX101405,1032,2026-02-01,13,224500.0,Mua sắm,Nhà thuốc,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101406,1070,2026-02-01,18,184700.0,Y tế,Cửa hàng trực tuyến,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101407,1175,2026-02-27,19,52800.0,Hóa đơn,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101408,1001,2026-03-01,15,482400.0,Hóa đơn,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX101409,1057,2026-02-12,18,207900.0,Mua sắm,Taxi,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101410,1013,2026-01-07,7,156700.0,Ăn uống,Cửa hàng điện tử,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101411,1113,2026-03-30,14,148600.0,Ăn uống,Nhà hàng,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101412,1051,2026-01-20,15,282700.0,Giải trí,Cửa hàng điện tử,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101413,1159,2026-01-09,21,117700.0,Ăn uống,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX101414,1118,2026-02-23,11,45400.0,Mua sắm,Cửa hàng trực tuyến,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101415,1157,2026-02-07,10,292500.0,Điện tử,Dịch vụ tiện ích,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101416,1127,2026-02-25,12,316400.0,Di chuyển,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101417,1088,2026-03-20,9,191300.0,Y tế,Cửa hàng điện tử,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101418,1173,2026-01-09,15,98500.0,Di chuyển,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị mới
+TX101419,1096,2026-01-26,17,234100.0,Điện tử,Rạp chiếu phim,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101420,1190,2026-02-16,19,78900.0,Y tế,Rạp chiếu phim,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101421,1199,2026-03-12,22,107200.0,Hóa đơn,Cửa hàng trực tuyến,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101422,1118,2026-02-24,8,130100.0,Giải trí,Nhà thuốc,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101423,1135,2026-02-04,10,397200.0,Di chuyển,Rạp chiếu phim,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101424,1052,2026-02-24,11,170700.0,Điện tử,Siêu thị,Cần Thơ,Thẻ,Thiết bị mới
+TX101425,1163,2026-03-30,10,160800.0,Di chuyển,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101426,1135,2026-02-13,20,864300.0,Y tế,Cửa hàng trực tuyến,Hà Nội,Tiền mặt,Thiết bị mới
+TX101427,1181,2026-03-21,9,281600.0,Giải trí,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101428,1054,2026-03-12,7,278900.0,Giải trí,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101429,1158,2026-01-28,20,169800.0,Di chuyển,Nhà thuốc,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101430,1095,2026-01-23,22,144900.0,Y tế,Cửa hàng trực tuyến,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101431,1038,2026-03-11,10,47600.0,Y tế,Taxi,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101432,1035,2026-01-19,12,433400.0,Y tế,Siêu thị,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101433,1113,2026-01-31,15,301100.0,Y tế,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101434,1064,2026-01-22,15,194100.0,Mua sắm,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101435,1021,2026-02-24,22,199900.0,Điện tử,Dịch vụ tiện ích,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101436,1086,2026-01-27,13,368300.0,Y tế,Cửa hàng điện tử,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101437,1131,2026-03-01,7,74100.0,Mua sắm,Taxi,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101438,1064,2026-03-26,13,145600.0,Điện tử,Cửa hàng điện tử,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101439,1192,2026-03-16,15,99300.0,Hóa đơn,Cửa hàng điện tử,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101440,1156,2026-03-27,15,760300.0,Di chuyển,Siêu thị,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101441,1103,2026-01-03,15,406100.0,Mua sắm,Dịch vụ tiện ích,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101442,1187,2026-02-10,21,47100.0,Di chuyển,Dịch vụ tiện ích,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101443,1087,2026-01-20,19,76200.0,Ăn uống,Taxi,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101444,1028,2026-03-24,11,200500.0,Giải trí,Nhà thuốc,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101445,1008,2026-03-06,12,158100.0,Giải trí,Taxi,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101446,1188,2026-01-29,17,87100.0,Giải trí,Siêu thị,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101447,1192,2026-02-20,13,858300.0,Hóa đơn,Dịch vụ tiện ích,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101448,1148,2026-02-24,13,273800.0,Di chuyển,Nhà hàng,Hải Phòng,Ví điện tử,Thiết bị mới
+TX101449,1021,2026-02-14,9,306700.0,Y tế,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101450,1059,2026-02-12,11,135500.0,Điện tử,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101451,1009,2026-01-05,18,364800.0,Ăn uống,Rạp chiếu phim,Hải Phòng,Thẻ,Thiết bị mới
+TX101452,1011,2026-02-10,20,168600.0,Di chuyển,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101453,1050,2026-02-01,19,180400.0,Điện tử,Taxi,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101454,1115,2026-03-15,11,337400.0,Điện tử,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX101455,1014,2026-03-19,9,70300.0,Điện tử,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101456,1197,2026-03-09,9,672900.0,Mua sắm,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101457,1092,2026-01-03,13,250000.0,Hóa đơn,Dịch vụ tiện ích,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101458,1053,2026-03-17,15,539300.0,Ăn uống,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101459,1104,2026-02-05,21,103600.0,Điện tử,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101460,1159,2026-02-07,21,115300.0,Hóa đơn,Dịch vụ tiện ích,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101461,1063,2026-03-27,7,97500.0,Mua sắm,Rạp chiếu phim,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101462,1010,2026-03-20,18,262100.0,Ăn uống,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101463,1011,2026-01-05,11,230400.0,Y tế,Dịch vụ tiện ích,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101464,1171,2026-02-02,10,158900.0,Y tế,Siêu thị,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101465,1023,2026-03-09,15,108200.0,Điện tử,Taxi,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101466,1128,2026-02-18,7,90700.0,Điện tử,Rạp chiếu phim,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101467,1077,2026-01-24,12,212700.0,Y tế,Rạp chiếu phim,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101468,1156,2026-02-17,15,158800.0,Y tế,Rạp chiếu phim,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101469,1013,2026-03-19,11,136100.0,Y tế,Nhà thuốc,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101470,1180,2026-01-21,16,649800.0,Điện tử,Nhà hàng,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101471,1140,2026-03-09,14,207700.0,Hóa đơn,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX101472,1090,2026-03-08,19,535200.0,Y tế,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101473,1042,2026-03-21,9,151500.0,Y tế,Cửa hàng trực tuyến,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101474,1196,2026-01-27,7,261100.0,Ăn uống,Nhà thuốc,Hà Nội,Thẻ,Thiết bị mới
+TX101475,1061,2026-01-20,15,211600.0,Giải trí,Cửa hàng trực tuyến,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101476,1099,2026-02-19,11,67000.0,Di chuyển,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101477,1079,2026-02-17,18,597900.0,Ăn uống,Rạp chiếu phim,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101478,1047,2026-02-06,8,200100.0,Mua sắm,Rạp chiếu phim,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX101479,1084,2026-03-12,16,371000.0,Ăn uống,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101480,1031,2026-03-13,22,130000.0,Điện tử,Nhà hàng,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101481,1001,2026-01-23,8,196000.0,Y tế,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101482,1058,2026-03-13,11,119900.0,Ăn uống,Nhà hàng,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101483,1023,2026-01-21,20,522600.0,Giải trí,Dịch vụ tiện ích,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101484,1083,2026-02-06,15,273600.0,Giải trí,Dịch vụ tiện ích,Hà Nội,Ví điện tử,Thiết bị mới
+TX101485,1173,2026-01-03,9,284500.0,Hóa đơn,Nhà thuốc,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101486,1033,2026-01-31,10,569300.0,Giải trí,Cửa hàng điện tử,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101487,1001,2026-03-28,19,494300.0,Điện tử,Nhà hàng,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101488,1023,2026-02-09,20,375900.0,Hóa đơn,Siêu thị,Hà Nội,Ví điện tử,Thiết bị mới
+TX101489,1102,2026-03-05,12,81300.0,Giải trí,Dịch vụ tiện ích,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101490,1055,2026-01-10,14,135200.0,Hóa đơn,Cửa hàng điện tử,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101491,1098,2026-02-27,19,109000.0,Di chuyển,Nhà hàng,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101492,1006,2026-02-03,9,366100.0,Điện tử,Taxi,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101493,1067,2026-03-08,10,247900.0,Di chuyển,Taxi,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101494,1083,2026-03-25,19,83100.0,Y tế,Cửa hàng trực tuyến,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101495,1087,2026-02-17,9,192800.0,Giải trí,Rạp chiếu phim,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101496,1111,2026-01-10,19,77300.0,Giải trí,Cửa hàng trực tuyến,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101497,1157,2026-02-12,14,212000.0,Y tế,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101498,1094,2026-01-12,22,69100.0,Y tế,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101499,1169,2026-02-10,7,318600.0,Hóa đơn,Taxi,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101500,1106,2026-01-06,22,286600.0,Giải trí,Siêu thị,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101501,1053,2026-02-27,10,836500.0,Hóa đơn,Cửa hàng điện tử,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101502,1046,2026-01-28,7,398300.0,Di chuyển,Cửa hàng trực tuyến,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101503,1065,2026-01-19,18,163600.0,Y tế,Nhà thuốc,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101504,1120,2026-01-02,15,390100.0,Điện tử,Nhà thuốc,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101505,1049,2026-03-21,20,82700.0,Giải trí,Dịch vụ tiện ích,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101506,1183,2026-03-17,8,112200.0,Y tế,Siêu thị,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101507,1096,2026-03-15,8,277800.0,Y tế,Cửa hàng điện tử,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101508,1173,2026-01-06,16,48600.0,Di chuyển,Rạp chiếu phim,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101509,1137,2026-02-01,21,214400.0,Ăn uống,Taxi,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101510,1067,2026-03-29,13,107700.0,Di chuyển,Nhà thuốc,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101511,1046,2026-02-22,19,236200.0,Y tế,Nhà thuốc,Hà Nội,Tiền mặt,Thiết bị mới
+TX101512,1149,2026-01-12,21,103500.0,Y tế,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị mới
+TX101513,1067,2026-01-13,20,296100.0,Hóa đơn,Nhà hàng,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101514,1050,2026-01-24,15,223000.0,Y tế,Rạp chiếu phim,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101515,1187,2026-03-29,18,586300.0,Ăn uống,Cửa hàng trực tuyến,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101516,1097,2026-01-16,15,221000.0,Giải trí,Siêu thị,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101517,1010,2026-03-23,17,128500.0,Giải trí,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101518,1099,2026-03-03,16,185100.0,Hóa đơn,Siêu thị,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101519,1093,2026-03-24,15,85900.0,Y tế,Siêu thị,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101520,1173,2026-03-16,13,292300.0,Hóa đơn,Rạp chiếu phim,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101521,1143,2026-01-30,17,332500.0,Hóa đơn,Dịch vụ tiện ích,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101522,1039,2026-03-16,19,1239000.0,Giải trí,Taxi,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101523,1031,2026-01-16,21,142400.0,Y tế,Nhà hàng,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101524,1121,2026-01-27,16,182400.0,Mua sắm,Nhà thuốc,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101525,1010,2026-01-20,8,147000.0,Di chuyển,Rạp chiếu phim,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101526,1064,2026-01-12,16,255200.0,Di chuyển,Dịch vụ tiện ích,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX101527,1028,2026-01-09,12,287400.0,Mua sắm,Nhà hàng,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101528,1005,2026-01-17,7,211900.0,Di chuyển,Siêu thị,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101529,1184,2026-01-11,8,470600.0,Di chuyển,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101530,1018,2026-02-04,16,142800.0,Di chuyển,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101531,1002,2026-01-07,22,438800.0,Di chuyển,Cửa hàng điện tử,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101532,1187,2026-01-06,15,320700.0,Hóa đơn,Cửa hàng trực tuyến,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101533,1038,2026-03-31,14,218200.0,Giải trí,Rạp chiếu phim,Hải Phòng,Ví điện tử,Thiết bị mới
+TX101534,1164,2026-01-08,8,176500.0,Di chuyển,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị mới
+TX101535,1007,2026-01-07,17,1202700.0,Y tế,Cửa hàng điện tử,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX101536,1031,2026-01-03,7,124200.0,Hóa đơn,Cửa hàng trực tuyến,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101537,1023,2026-01-12,20,271000.0,Y tế,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101538,1142,2026-02-17,20,130100.0,Ăn uống,Taxi,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101539,1125,2026-03-16,22,767800.0,Mua sắm,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101540,1096,2026-03-08,11,409300.0,Hóa đơn,Nhà thuốc,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101541,1049,2026-02-22,9,136800.0,Di chuyển,Dịch vụ tiện ích,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101542,1018,2026-01-08,11,315000.0,Hóa đơn,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101543,1114,2026-03-11,19,263500.0,Mua sắm,Dịch vụ tiện ích,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101544,1047,2026-01-04,10,153200.0,Hóa đơn,Rạp chiếu phim,Cần Thơ,Thẻ,Thiết bị mới
+TX101545,1119,2026-02-26,21,374000.0,Giải trí,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101546,1138,2026-02-06,9,288900.0,Y tế,Rạp chiếu phim,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101547,1170,2026-03-21,7,255900.0,Mua sắm,Nhà thuốc,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101548,1099,2026-01-28,10,213600.0,Di chuyển,Rạp chiếu phim,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX101549,1001,2026-02-27,19,297500.0,Hóa đơn,Dịch vụ tiện ích,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101550,1057,2026-02-09,16,258300.0,Hóa đơn,Siêu thị,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101551,1171,2026-02-16,12,229300.0,Y tế,Rạp chiếu phim,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101552,1107,2026-03-26,17,140500.0,Di chuyển,Nhà thuốc,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101553,1124,2026-03-06,17,720000.0,Giải trí,Taxi,Cần Thơ,Thẻ,Thiết bị mới
+TX101554,1092,2026-02-07,15,105500.0,Điện tử,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101555,1033,2026-02-10,15,296800.0,Di chuyển,Dịch vụ tiện ích,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101556,1180,2026-03-05,8,175800.0,Y tế,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101557,1155,2026-02-01,11,753900.0,Di chuyển,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101558,1200,2026-01-16,15,116900.0,Di chuyển,Nhà thuốc,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX101559,1172,2026-02-12,9,131500.0,Giải trí,Cửa hàng điện tử,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101560,1059,2026-01-07,14,111600.0,Giải trí,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101561,1051,2026-01-16,8,275900.0,Hóa đơn,Taxi,Hải Phòng,Ví điện tử,Thiết bị mới
+TX101562,1050,2026-02-07,19,84100.0,Mua sắm,Cửa hàng điện tử,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101563,1184,2026-03-13,8,157400.0,Ăn uống,Nhà hàng,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101564,1112,2026-03-12,8,48800.0,Điện tử,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101565,1091,2026-01-24,17,260300.0,Điện tử,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101566,1194,2026-02-07,10,155000.0,Điện tử,Nhà hàng,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101567,1121,2026-01-14,12,77600.0,Hóa đơn,Rạp chiếu phim,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101568,1182,2026-03-09,12,470400.0,Điện tử,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101569,1197,2026-01-23,10,88100.0,Hóa đơn,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị mới
+TX101570,1016,2026-03-13,19,384300.0,Ăn uống,Cửa hàng điện tử,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101571,1073,2026-03-17,18,134700.0,Mua sắm,Cửa hàng điện tử,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX101572,1147,2026-03-04,10,675000.0,Mua sắm,Rạp chiếu phim,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101573,1163,2026-01-30,17,371800.0,Di chuyển,Rạp chiếu phim,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101574,1030,2026-03-27,18,108600.0,Điện tử,Dịch vụ tiện ích,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX101575,1064,2026-03-03,15,115800.0,Di chuyển,Cửa hàng điện tử,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101576,1110,2026-02-28,16,336100.0,Giải trí,Siêu thị,Hải Phòng,Ví điện tử,Thiết bị mới
+TX101577,1160,2026-03-19,21,183100.0,Mua sắm,Rạp chiếu phim,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101578,1023,2026-03-21,14,195400.0,Giải trí,Nhà hàng,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101579,1121,2026-01-07,13,536000.0,Hóa đơn,Cửa hàng trực tuyến,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101580,1060,2026-03-21,15,130300.0,Mua sắm,Cửa hàng trực tuyến,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101581,1044,2026-03-10,20,234500.0,Hóa đơn,Dịch vụ tiện ích,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101582,1104,2026-01-19,18,429200.0,Ăn uống,Nhà thuốc,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101583,1083,2026-01-28,8,387600.0,Điện tử,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101584,1128,2026-03-09,14,196700.0,Giải trí,Dịch vụ tiện ích,Hà Nội,Chuyển khoản,Thiết bị mới
+TX101585,1064,2026-01-20,18,179700.0,Điện tử,Nhà hàng,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101586,1165,2026-02-10,10,65100.0,Điện tử,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101587,1016,2026-03-04,22,105000.0,Mua sắm,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101588,1173,2026-02-28,19,274900.0,Giải trí,Dịch vụ tiện ích,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101589,1006,2026-03-23,20,199800.0,Ăn uống,Nhà hàng,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101590,1148,2026-01-11,8,231800.0,Điện tử,Taxi,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101591,1070,2026-01-27,16,455400.0,Y tế,Cửa hàng điện tử,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101592,1077,2026-03-30,15,95800.0,Giải trí,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX101593,1004,2026-02-21,17,186500.0,Điện tử,Cửa hàng điện tử,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101594,1141,2026-01-23,20,251100.0,Y tế,Nhà thuốc,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101595,1034,2026-01-27,12,134400.0,Điện tử,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101596,1132,2026-01-31,15,599200.0,Ăn uống,Dịch vụ tiện ích,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101597,1146,2026-02-19,17,415600.0,Ăn uống,Rạp chiếu phim,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101598,1170,2026-01-26,19,269500.0,Điện tử,Taxi,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX101599,1142,2026-02-25,19,772500.0,Mua sắm,Taxi,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101600,1061,2026-02-10,12,77000.0,Di chuyển,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101601,1148,2026-02-24,22,218800.0,Ăn uống,Nhà hàng,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101602,1166,2026-01-14,7,284300.0,Giải trí,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101603,1064,2026-02-26,14,116000.0,Y tế,Cửa hàng trực tuyến,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101604,1025,2026-03-25,16,271500.0,Y tế,Nhà thuốc,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX101605,1179,2026-01-13,7,101400.0,Giải trí,Nhà hàng,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101606,1030,2026-01-30,14,356700.0,Giải trí,Nhà hàng,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101607,1119,2026-03-04,16,461300.0,Hóa đơn,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101608,1048,2026-02-25,16,266200.0,Hóa đơn,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101609,1026,2026-03-02,8,60100.0,Hóa đơn,Nhà hàng,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101610,1156,2026-02-20,11,111800.0,Điện tử,Nhà hàng,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101611,1029,2026-03-03,10,326700.0,Mua sắm,Siêu thị,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101612,1135,2026-02-24,17,223300.0,Hóa đơn,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101613,1139,2026-01-07,12,33400.0,Giải trí,Nhà hàng,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101614,1013,2026-03-09,16,525100.0,Hóa đơn,Nhà thuốc,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101615,1035,2026-02-10,18,242100.0,Ăn uống,Cửa hàng điện tử,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101616,1159,2026-01-05,19,124000.0,Di chuyển,Cửa hàng trực tuyến,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101617,1102,2026-02-06,9,441500.0,Giải trí,Siêu thị,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101618,1025,2026-02-09,21,136900.0,Giải trí,Siêu thị,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101619,1199,2026-01-08,9,135900.0,Y tế,Cửa hàng trực tuyến,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX101620,1053,2026-03-31,7,282700.0,Điện tử,Taxi,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101621,1001,2026-01-21,7,765400.0,Giải trí,Dịch vụ tiện ích,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101622,1185,2026-01-30,10,685500.0,Giải trí,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101623,1004,2026-02-09,20,283000.0,Di chuyển,Cửa hàng trực tuyến,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101624,1111,2026-03-16,10,304100.0,Di chuyển,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101625,1199,2026-03-08,18,382900.0,Y tế,Dịch vụ tiện ích,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101626,1116,2026-03-11,13,91300.0,Hóa đơn,Rạp chiếu phim,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101627,1117,2026-01-22,7,345300.0,Y tế,Siêu thị,Hà Nội,Ví điện tử,Thiết bị mới
+TX101628,1078,2026-03-18,14,131600.0,Ăn uống,Taxi,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101629,1026,2026-03-16,7,274900.0,Ăn uống,Rạp chiếu phim,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101630,1115,2026-02-11,14,187600.0,Mua sắm,Rạp chiếu phim,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101631,1180,2026-02-19,15,312500.0,Mua sắm,Dịch vụ tiện ích,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101632,1019,2026-01-04,15,239000.0,Giải trí,Dịch vụ tiện ích,Cần Thơ,Tiền mặt,Thiết bị mới
+TX101633,1177,2026-03-10,11,25600.0,Giải trí,Rạp chiếu phim,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101634,1084,2026-03-28,19,249300.0,Hóa đơn,Taxi,Cần Thơ,Thẻ,Thiết bị mới
+TX101635,1108,2026-02-12,16,344900.0,Di chuyển,Dịch vụ tiện ích,Hà Nội,Tiền mặt,Thiết bị mới
+TX101636,1034,2026-02-18,11,300600.0,Giải trí,Cửa hàng trực tuyến,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101637,1125,2026-02-14,13,204800.0,Ăn uống,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101638,1037,2026-01-08,8,694500.0,Hóa đơn,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101639,1055,2026-02-25,21,273600.0,Mua sắm,Cửa hàng trực tuyến,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101640,1145,2026-03-06,19,298900.0,Ăn uống,Nhà hàng,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101641,1011,2026-03-25,11,457000.0,Mua sắm,Nhà hàng,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101642,1090,2026-03-25,17,283600.0,Ăn uống,Taxi,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101643,1119,2026-02-14,17,117300.0,Hóa đơn,Dịch vụ tiện ích,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101644,1027,2026-03-28,16,39900.0,Hóa đơn,Cửa hàng điện tử,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101645,1059,2026-02-17,7,157500.0,Giải trí,Siêu thị,Hải Phòng,Tiền mặt,Thiết bị mới
+TX101646,1069,2026-02-27,21,374800.0,Hóa đơn,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101647,1133,2026-02-24,22,171800.0,Mua sắm,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101648,1196,2026-03-31,22,385500.0,Ăn uống,Rạp chiếu phim,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101649,1168,2026-03-08,22,244100.0,Giải trí,Rạp chiếu phim,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101650,1038,2026-01-11,21,542000.0,Điện tử,Cửa hàng điện tử,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101651,1004,2026-01-07,18,178900.0,Mua sắm,Siêu thị,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101652,1011,2026-02-06,7,305200.0,Mua sắm,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị mới
+TX101653,1120,2026-02-16,14,313500.0,Di chuyển,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101654,1032,2026-03-02,10,629400.0,Mua sắm,Cửa hàng điện tử,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101655,1047,2026-02-13,10,66600.0,Mua sắm,Rạp chiếu phim,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101656,1170,2026-02-16,20,159600.0,Hóa đơn,Taxi,Hà Nội,Tiền mặt,Thiết bị mới
+TX101657,1175,2026-03-24,20,398500.0,Y tế,Taxi,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101658,1168,2026-01-31,15,649200.0,Giải trí,Siêu thị,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101659,1051,2026-02-14,18,260300.0,Điện tử,Nhà thuốc,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101660,1124,2026-02-20,9,179200.0,Di chuyển,Rạp chiếu phim,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101661,1123,2026-02-12,10,373800.0,Hóa đơn,Cửa hàng điện tử,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101662,1038,2026-03-29,20,404100.0,Di chuyển,Rạp chiếu phim,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101663,1111,2026-03-28,14,171000.0,Ăn uống,Cửa hàng điện tử,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX101664,1106,2026-02-16,15,277200.0,Di chuyển,Cửa hàng điện tử,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101665,1080,2026-02-10,14,502700.0,Mua sắm,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101666,1151,2026-02-23,10,826300.0,Hóa đơn,Rạp chiếu phim,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101667,1136,2026-01-17,20,370000.0,Mua sắm,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX101668,1107,2026-02-08,19,226900.0,Y tế,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX101669,1146,2026-01-20,17,211800.0,Y tế,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101670,1153,2026-01-13,12,325000.0,Điện tử,Taxi,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101671,1114,2026-01-09,17,202900.0,Ăn uống,Rạp chiếu phim,Hải Phòng,Thẻ,Thiết bị mới
+TX101672,1054,2026-02-22,22,251200.0,Ăn uống,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101673,1152,2026-01-01,17,104900.0,Điện tử,Dịch vụ tiện ích,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101674,1144,2026-02-28,14,545400.0,Y tế,Taxi,Đà Nẵng,Thẻ,Thiết bị mới
+TX101675,1197,2026-02-08,11,99000.0,Giải trí,Cửa hàng trực tuyến,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101676,1030,2026-02-02,15,162600.0,Di chuyển,Cửa hàng điện tử,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101677,1084,2026-03-11,12,235600.0,Hóa đơn,Siêu thị,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101678,1185,2026-02-18,16,886500.0,Hóa đơn,Nhà thuốc,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101679,1103,2026-03-08,7,163700.0,Y tế,Nhà hàng,Hà Nội,Thẻ,Thiết bị mới
+TX101680,1189,2026-03-05,10,138000.0,Hóa đơn,Nhà hàng,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101681,1003,2026-01-03,19,149600.0,Ăn uống,Nhà hàng,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101682,1008,2026-01-20,13,702600.0,Giải trí,Siêu thị,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101683,1160,2026-02-21,13,30700.0,Y tế,Siêu thị,Hải Phòng,Thẻ,Thiết bị mới
+TX101684,1072,2026-03-29,15,109000.0,Di chuyển,Nhà thuốc,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101685,1105,2026-01-14,14,1488500.0,Ăn uống,Cửa hàng điện tử,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101686,1086,2026-01-10,19,332700.0,Ăn uống,Dịch vụ tiện ích,Hà Nội,Chuyển khoản,Thiết bị mới
+TX101687,1082,2026-03-26,10,101400.0,Y tế,Siêu thị,Hà Nội,Ví điện tử,Thiết bị mới
+TX101688,1188,2026-03-29,19,213600.0,Hóa đơn,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101689,1019,2026-01-16,10,230600.0,Hóa đơn,Dịch vụ tiện ích,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101690,1155,2026-02-06,12,397800.0,Điện tử,Dịch vụ tiện ích,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101691,1178,2026-02-26,16,797300.0,Ăn uống,Cửa hàng điện tử,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX101692,1132,2026-01-18,21,288800.0,Mua sắm,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101693,1080,2026-01-30,10,150800.0,Y tế,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101694,1033,2026-02-05,16,381700.0,Hóa đơn,Nhà thuốc,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101695,1137,2026-02-27,8,134900.0,Ăn uống,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101696,1094,2026-01-28,8,106700.0,Giải trí,Rạp chiếu phim,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101697,1030,2026-02-07,19,64200.0,Ăn uống,Rạp chiếu phim,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101698,1072,2026-01-27,18,73600.0,Y tế,Nhà thuốc,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX101699,1193,2026-03-10,13,117500.0,Y tế,Cửa hàng trực tuyến,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101700,1054,2026-01-14,16,96500.0,Y tế,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101701,1036,2026-01-21,13,273900.0,Hóa đơn,Taxi,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101702,1137,2026-01-23,11,95000.0,Mua sắm,Rạp chiếu phim,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101703,1040,2026-03-23,13,24400.0,Điện tử,Nhà thuốc,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101704,1184,2026-03-27,11,105900.0,Hóa đơn,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101705,1172,2026-02-15,20,158100.0,Giải trí,Rạp chiếu phim,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101706,1197,2026-01-15,13,144000.0,Ăn uống,Nhà thuốc,Cần Thơ,Thẻ,Thiết bị mới
+TX101707,1183,2026-03-10,12,637300.0,Giải trí,Nhà thuốc,Cần Thơ,Tiền mặt,Thiết bị mới
+TX101708,1049,2026-02-14,15,143200.0,Giải trí,Nhà thuốc,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101709,1043,2026-03-18,19,407600.0,Di chuyển,Cửa hàng điện tử,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101710,1069,2026-02-02,11,217100.0,Y tế,Rạp chiếu phim,Hà Nội,Chuyển khoản,Thiết bị mới
+TX101711,1094,2026-03-31,22,213600.0,Ăn uống,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Thẻ,Thiết bị mới
+TX101712,1176,2026-03-14,14,122600.0,Y tế,Taxi,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101713,1147,2026-01-21,17,211100.0,Điện tử,Rạp chiếu phim,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101714,1129,2026-03-07,22,128800.0,Hóa đơn,Nhà hàng,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101715,1176,2026-01-26,13,247800.0,Ăn uống,Dịch vụ tiện ích,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101716,1130,2026-02-01,10,186500.0,Hóa đơn,Dịch vụ tiện ích,Hải Phòng,Ví điện tử,Thiết bị mới
+TX101717,1076,2026-01-23,18,113600.0,Hóa đơn,Rạp chiếu phim,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX101718,1083,2026-03-03,7,440500.0,Hóa đơn,Taxi,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101719,1104,2026-01-24,14,296600.0,Mua sắm,Rạp chiếu phim,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101720,1018,2026-02-27,22,160800.0,Giải trí,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị mới
+TX101721,1149,2026-02-22,13,243600.0,Mua sắm,Rạp chiếu phim,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101722,1131,2026-03-09,17,207500.0,Hóa đơn,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101723,1147,2026-03-31,15,119900.0,Giải trí,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101724,1107,2026-01-01,10,231100.0,Giải trí,Cửa hàng điện tử,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101725,1157,2026-03-31,12,142400.0,Y tế,Cửa hàng trực tuyến,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101726,1190,2026-01-10,15,113500.0,Điện tử,Siêu thị,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101727,1114,2026-02-17,8,70600.0,Y tế,Rạp chiếu phim,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101728,1089,2026-01-31,13,171200.0,Y tế,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101729,1021,2026-02-27,13,327200.0,Điện tử,Cửa hàng trực tuyến,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101730,1156,2026-03-06,20,135300.0,Mua sắm,Rạp chiếu phim,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX101731,1181,2026-03-19,8,1284500.0,Di chuyển,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị mới
+TX101732,1140,2026-02-06,20,409000.0,Hóa đơn,Dịch vụ tiện ích,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101733,1174,2026-03-25,13,548200.0,Hóa đơn,Nhà thuốc,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101734,1173,2026-01-30,17,383900.0,Giải trí,Nhà hàng,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101735,1160,2026-01-19,15,804800.0,Ăn uống,Nhà thuốc,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101736,1101,2026-02-04,11,126800.0,Ăn uống,Dịch vụ tiện ích,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101737,1020,2026-02-17,21,36600.0,Y tế,Taxi,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101738,1001,2026-03-02,10,161000.0,Y tế,Taxi,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101739,1041,2026-03-16,7,325200.0,Di chuyển,Dịch vụ tiện ích,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101740,1087,2026-01-21,19,244600.0,Di chuyển,Dịch vụ tiện ích,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101741,1149,2026-01-28,16,266800.0,Hóa đơn,Cửa hàng trực tuyến,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101742,1092,2026-03-26,21,554600.0,Hóa đơn,Nhà hàng,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101743,1005,2026-02-09,14,287500.0,Mua sắm,Nhà hàng,Hà Nội,Ví điện tử,Thiết bị mới
+TX101744,1043,2026-01-22,7,384900.0,Hóa đơn,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101745,1196,2026-03-30,7,114000.0,Y tế,Cửa hàng trực tuyến,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101746,1198,2026-02-10,13,102200.0,Y tế,Dịch vụ tiện ích,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101747,1076,2026-03-30,10,681000.0,Y tế,Cửa hàng điện tử,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101748,1161,2026-03-24,21,236100.0,Giải trí,Siêu thị,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101749,1144,2026-03-23,8,142200.0,Điện tử,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị mới
+TX101750,1187,2026-02-22,21,142400.0,Mua sắm,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101751,1178,2026-03-13,10,139700.0,Ăn uống,Cửa hàng điện tử,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101752,1126,2026-03-28,8,133900.0,Ăn uống,Rạp chiếu phim,Hải Phòng,Tiền mặt,Thiết bị mới
+TX101753,1079,2026-01-25,11,89600.0,Điện tử,Nhà hàng,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101754,1126,2026-01-04,9,77000.0,Giải trí,Taxi,Hà Nội,Tiền mặt,Thiết bị mới
+TX101755,1064,2026-01-29,13,191900.0,Mua sắm,Rạp chiếu phim,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101756,1070,2026-02-27,12,145300.0,Y tế,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101757,1122,2026-02-19,15,477500.0,Di chuyển,Dịch vụ tiện ích,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101758,1115,2026-01-08,15,270100.0,Giải trí,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101759,1117,2026-02-20,7,264900.0,Mua sắm,Rạp chiếu phim,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101760,1077,2026-01-16,8,130800.0,Ăn uống,Rạp chiếu phim,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101761,1082,2026-02-15,9,202100.0,Mua sắm,Rạp chiếu phim,Hải Phòng,Tiền mặt,Thiết bị mới
+TX101762,1003,2026-02-21,10,283200.0,Mua sắm,Siêu thị,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101763,1121,2026-02-27,8,363200.0,Hóa đơn,Rạp chiếu phim,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101764,1116,2026-02-07,12,206000.0,Ăn uống,Siêu thị,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101765,1188,2026-02-06,15,468300.0,Mua sắm,Cửa hàng điện tử,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101766,1101,2026-03-03,11,221200.0,Hóa đơn,Cửa hàng điện tử,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101767,1094,2026-03-09,12,383200.0,Di chuyển,Dịch vụ tiện ích,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101768,1014,2026-03-14,14,156100.0,Giải trí,Rạp chiếu phim,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101769,1040,2026-01-31,15,61900.0,Giải trí,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX101770,1068,2026-02-08,12,265500.0,Điện tử,Nhà thuốc,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101771,1076,2026-01-30,10,365500.0,Y tế,Cửa hàng trực tuyến,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101772,1073,2026-02-17,13,329100.0,Mua sắm,Cửa hàng trực tuyến,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101773,1079,2026-01-12,7,295600.0,Giải trí,Rạp chiếu phim,Hà Nội,Thẻ,Thiết bị mới
+TX101774,1154,2026-02-08,14,172400.0,Giải trí,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị mới
+TX101775,1027,2026-01-17,22,125100.0,Giải trí,Taxi,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101776,1067,2026-02-17,13,323700.0,Y tế,Dịch vụ tiện ích,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101777,1033,2026-03-18,8,296500.0,Mua sắm,Dịch vụ tiện ích,Hải Phòng,Thẻ,Thiết bị mới
+TX101778,1062,2026-03-30,18,148600.0,Di chuyển,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101779,1137,2026-02-10,9,478300.0,Y tế,Dịch vụ tiện ích,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101780,1010,2026-01-06,10,118600.0,Điện tử,Cửa hàng điện tử,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101781,1068,2026-01-21,9,146200.0,Ăn uống,Taxi,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101782,1005,2026-01-10,21,691700.0,Hóa đơn,Nhà thuốc,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101783,1191,2026-03-10,22,404100.0,Mua sắm,Nhà thuốc,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101784,1146,2026-03-30,16,171200.0,Mua sắm,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101785,1049,2026-02-19,16,269000.0,Ăn uống,Rạp chiếu phim,Cần Thơ,Thẻ,Thiết bị mới
+TX101786,1040,2026-01-16,17,245200.0,Hóa đơn,Cửa hàng điện tử,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101787,1020,2026-01-02,16,32200.0,Giải trí,Rạp chiếu phim,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101788,1095,2026-03-29,15,116600.0,Hóa đơn,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101789,1151,2026-01-29,22,212300.0,Di chuyển,Rạp chiếu phim,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101790,1117,2026-01-11,18,171400.0,Y tế,Nhà thuốc,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101791,1177,2026-01-16,8,261500.0,Giải trí,Cửa hàng điện tử,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101792,1069,2026-01-23,13,485100.0,Điện tử,Cửa hàng điện tử,Cần Thơ,Thẻ,Thiết bị mới
+TX101793,1056,2026-03-01,22,175700.0,Di chuyển,Dịch vụ tiện ích,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101794,1096,2026-03-22,13,104900.0,Mua sắm,Rạp chiếu phim,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101795,1041,2026-01-25,10,276200.0,Hóa đơn,Cửa hàng điện tử,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101796,1196,2026-03-03,20,175000.0,Hóa đơn,Taxi,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101797,1038,2026-01-06,16,197200.0,Hóa đơn,Siêu thị,Cần Thơ,Ví điện tử,Thiết bị mới
+TX101798,1096,2026-01-01,16,179400.0,Y tế,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị mới
+TX101799,1105,2026-01-05,13,1056700.0,Ăn uống,Rạp chiếu phim,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101800,1012,2026-03-25,8,45800.0,Hóa đơn,Taxi,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101801,1094,2026-02-22,13,167600.0,Hóa đơn,Rạp chiếu phim,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101802,1091,2026-03-14,13,219400.0,Mua sắm,Siêu thị,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101803,1052,2026-01-02,21,127300.0,Giải trí,Taxi,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101804,1026,2026-01-03,11,413000.0,Y tế,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101805,1010,2026-03-18,9,388700.0,Hóa đơn,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101806,1002,2026-01-10,13,212800.0,Ăn uống,Cửa hàng điện tử,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101807,1097,2026-01-14,22,182000.0,Ăn uống,Dịch vụ tiện ích,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101808,1018,2026-02-16,14,203400.0,Di chuyển,Nhà hàng,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101809,1192,2026-02-24,13,204400.0,Giải trí,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101810,1049,2026-01-21,17,208300.0,Di chuyển,Nhà hàng,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101811,1131,2026-02-10,17,192900.0,Di chuyển,Cửa hàng điện tử,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101812,1135,2026-03-02,11,262500.0,Điện tử,Cửa hàng trực tuyến,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101813,1100,2026-02-09,22,372700.0,Ăn uống,Cửa hàng trực tuyến,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101814,1177,2026-02-04,16,93000.0,Ăn uống,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX101815,1023,2026-01-07,7,105400.0,Mua sắm,Nhà hàng,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101816,1047,2026-02-10,13,64700.0,Điện tử,Nhà thuốc,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101817,1051,2026-03-14,21,403500.0,Hóa đơn,Dịch vụ tiện ích,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101818,1028,2026-02-26,13,262100.0,Mua sắm,Taxi,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101819,1059,2026-03-22,16,313300.0,Di chuyển,Taxi,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101820,1063,2026-01-12,16,80900.0,Điện tử,Rạp chiếu phim,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101821,1153,2026-01-01,18,767500.0,Giải trí,Siêu thị,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101822,1061,2026-02-19,20,143700.0,Mua sắm,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101823,1176,2026-01-17,9,247500.0,Mua sắm,Dịch vụ tiện ích,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101824,1155,2026-02-23,15,400100.0,Ăn uống,Nhà hàng,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101825,1181,2026-03-23,15,110200.0,Y tế,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101826,1022,2026-01-31,9,150100.0,Ăn uống,Nhà thuốc,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101827,1197,2026-02-19,17,249400.0,Di chuyển,Nhà hàng,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101828,1123,2026-03-03,8,1626000.0,Di chuyển,Dịch vụ tiện ích,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX101829,1197,2026-01-14,14,271600.0,Giải trí,Dịch vụ tiện ích,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101830,1071,2026-03-22,12,677300.0,Giải trí,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101831,1191,2026-01-19,9,511600.0,Y tế,Dịch vụ tiện ích,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101832,1118,2026-03-14,20,284600.0,Di chuyển,Rạp chiếu phim,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX101833,1015,2026-03-01,10,110100.0,Di chuyển,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101834,1083,2026-01-13,11,461900.0,Di chuyển,Cửa hàng điện tử,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101835,1028,2026-03-07,20,77100.0,Ăn uống,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101836,1189,2026-01-18,21,674700.0,Y tế,Rạp chiếu phim,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101837,1061,2026-02-23,7,253100.0,Hóa đơn,Nhà hàng,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101838,1045,2026-03-28,11,34400.0,Hóa đơn,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101839,1111,2026-03-27,18,173300.0,Điện tử,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101840,1086,2026-03-20,19,347700.0,Mua sắm,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101841,1020,2026-02-14,22,186400.0,Điện tử,Dịch vụ tiện ích,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101842,1164,2026-02-20,15,362900.0,Giải trí,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị mới
+TX101843,1170,2026-01-28,7,121300.0,Mua sắm,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101844,1149,2026-03-24,20,88200.0,Giải trí,Rạp chiếu phim,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101845,1124,2026-02-12,9,209300.0,Y tế,Nhà thuốc,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101846,1081,2026-03-11,8,224900.0,Di chuyển,Nhà thuốc,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101847,1109,2026-02-02,17,172400.0,Di chuyển,Nhà hàng,Cần Thơ,Tiền mặt,Thiết bị mới
+TX101848,1105,2026-03-08,16,519400.0,Y tế,Nhà thuốc,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101849,1034,2026-01-21,7,121300.0,Mua sắm,Nhà thuốc,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101850,1017,2026-03-08,9,273900.0,Ăn uống,Siêu thị,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX101851,1051,2026-01-05,16,230700.0,Giải trí,Rạp chiếu phim,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101852,1091,2026-01-10,11,74000.0,Điện tử,Rạp chiếu phim,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101853,1033,2026-02-01,17,87400.0,Hóa đơn,Cửa hàng điện tử,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101854,1022,2026-02-13,13,221800.0,Ăn uống,Siêu thị,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101855,1171,2026-03-06,16,880500.0,Hóa đơn,Cửa hàng điện tử,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101856,1075,2026-02-02,14,330000.0,Mua sắm,Dịch vụ tiện ích,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101857,1117,2026-01-02,12,65700.0,Y tế,Cửa hàng trực tuyến,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX101858,1105,2026-01-30,12,24900.0,Giải trí,Taxi,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101859,1148,2026-02-09,18,367500.0,Di chuyển,Nhà thuốc,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101860,1148,2026-02-18,15,205700.0,Giải trí,Cửa hàng điện tử,Hải Phòng,Ví điện tử,Thiết bị mới
+TX101861,1060,2026-02-27,16,489100.0,Giải trí,Cửa hàng trực tuyến,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101862,1170,2026-01-23,16,118800.0,Giải trí,Cửa hàng điện tử,Hải Phòng,Tiền mặt,Thiết bị mới
+TX101863,1075,2026-02-24,10,281100.0,Di chuyển,Rạp chiếu phim,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX101864,1168,2026-02-26,21,397800.0,Hóa đơn,Nhà hàng,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101865,1081,2026-03-11,16,160800.0,Ăn uống,Dịch vụ tiện ích,Cần Thơ,Ví điện tử,Thiết bị mới
+TX101866,1023,2026-02-16,18,163300.0,Di chuyển,Nhà thuốc,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101867,1153,2026-03-14,21,223900.0,Di chuyển,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị mới
+TX101868,1007,2026-01-20,21,321700.0,Hóa đơn,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101869,1155,2026-03-06,17,217800.0,Điện tử,Siêu thị,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101870,1009,2026-01-05,19,435000.0,Điện tử,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101871,1042,2026-01-10,14,159200.0,Hóa đơn,Siêu thị,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101872,1121,2026-03-19,18,86800.0,Giải trí,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101873,1189,2026-02-12,12,877900.0,Ăn uống,Nhà hàng,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101874,1082,2026-02-25,18,144100.0,Hóa đơn,Siêu thị,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101875,1025,2026-02-24,8,147800.0,Giải trí,Cửa hàng trực tuyến,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101876,1047,2026-03-04,21,210100.0,Giải trí,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101877,1180,2026-01-23,10,230600.0,Điện tử,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101878,1146,2026-01-17,17,167800.0,Hóa đơn,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101879,1021,2026-01-04,7,217300.0,Điện tử,Dịch vụ tiện ích,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101880,1077,2026-03-19,9,214000.0,Điện tử,Nhà thuốc,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101881,1053,2026-01-21,22,248600.0,Giải trí,Nhà thuốc,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101882,1036,2026-02-21,20,42200.0,Ăn uống,Nhà hàng,Hà Nội,Tiền mặt,Thiết bị mới
+TX101883,1170,2026-02-10,10,820800.0,Di chuyển,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101884,1124,2026-01-15,9,198400.0,Y tế,Nhà thuốc,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101885,1036,2026-02-07,20,330300.0,Giải trí,Rạp chiếu phim,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101886,1131,2026-01-08,22,83800.0,Điện tử,Dịch vụ tiện ích,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101887,1083,2026-01-16,9,158200.0,Y tế,Taxi,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101888,1013,2026-01-13,17,137400.0,Ăn uống,Cửa hàng điện tử,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101889,1090,2026-03-16,11,615500.0,Điện tử,Nhà thuốc,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101890,1038,2026-02-21,18,146000.0,Di chuyển,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101891,1050,2026-03-25,13,374000.0,Y tế,Rạp chiếu phim,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101892,1176,2026-02-09,9,139500.0,Hóa đơn,Taxi,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101893,1143,2026-01-19,12,160300.0,Hóa đơn,Rạp chiếu phim,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101894,1027,2026-02-24,15,185300.0,Ăn uống,Siêu thị,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101895,1171,2026-03-25,19,540400.0,Ăn uống,Cửa hàng điện tử,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101896,1115,2026-02-17,7,58600.0,Giải trí,Dịch vụ tiện ích,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101897,1175,2026-01-02,22,87600.0,Hóa đơn,Dịch vụ tiện ích,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101898,1150,2026-01-28,17,56300.0,Hóa đơn,Nhà hàng,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101899,1068,2026-03-25,21,102800.0,Mua sắm,Dịch vụ tiện ích,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101900,1107,2026-02-16,21,124600.0,Hóa đơn,Siêu thị,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101901,1107,2026-03-27,9,71100.0,Ăn uống,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101902,1144,2026-02-15,8,131600.0,Mua sắm,Rạp chiếu phim,Hà Nội,Tiền mặt,Thiết bị quen thuộc
+TX101903,1050,2026-01-02,19,53700.0,Hóa đơn,Taxi,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101904,1067,2026-03-20,10,107900.0,Giải trí,Nhà thuốc,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101905,1049,2026-03-10,9,509800.0,Giải trí,Nhà thuốc,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101906,1060,2026-03-06,14,291800.0,Điện tử,Siêu thị,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101907,1033,2026-03-29,21,250800.0,Y tế,Siêu thị,Cần Thơ,Chuyển khoản,Thiết bị mới
+TX101908,1008,2026-01-18,19,109000.0,Di chuyển,Cửa hàng trực tuyến,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101909,1189,2026-03-23,15,75100.0,Y tế,Siêu thị,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101910,1015,2026-01-21,10,99100.0,Ăn uống,Dịch vụ tiện ích,Hà Nội,Chuyển khoản,Thiết bị quen thuộc
+TX101911,1178,2026-03-29,12,213400.0,Điện tử,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101912,1001,2026-01-18,18,404000.0,Di chuyển,Dịch vụ tiện ích,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101913,1156,2026-02-19,9,413800.0,Y tế,Siêu thị,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101914,1066,2026-03-13,15,342100.0,Điện tử,Cửa hàng điện tử,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101915,1104,2026-01-08,7,131300.0,Giải trí,Cửa hàng điện tử,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101916,1057,2026-01-07,12,223800.0,Điện tử,Dịch vụ tiện ích,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101917,1099,2026-03-18,10,175700.0,Ăn uống,Siêu thị,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101918,1091,2026-01-06,17,191100.0,Mua sắm,Taxi,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101919,1106,2026-02-25,21,915600.0,Giải trí,Rạp chiếu phim,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101920,1079,2026-03-26,9,64100.0,Hóa đơn,Rạp chiếu phim,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101921,1108,2026-02-25,19,186700.0,Ăn uống,Nhà hàng,Hà Nội,Tiền mặt,Thiết bị mới
+TX101922,1166,2026-02-13,17,513800.0,Y tế,Nhà thuốc,Đà Nẵng,Thẻ,Thiết bị mới
+TX101923,1087,2026-02-07,22,78800.0,Ăn uống,Cửa hàng điện tử,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101924,1073,2026-02-27,21,140200.0,Điện tử,Dịch vụ tiện ích,Đà Nẵng,Thẻ,Thiết bị mới
+TX101925,1027,2026-02-21,8,151900.0,Mua sắm,Taxi,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101926,1072,2026-02-15,18,188200.0,Hóa đơn,Dịch vụ tiện ích,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101927,1026,2026-01-14,16,72000.0,Y tế,Siêu thị,Hải Phòng,Ví điện tử,Thiết bị mới
+TX101928,1037,2026-03-01,8,333700.0,Hóa đơn,Dịch vụ tiện ích,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101929,1191,2026-03-08,11,350700.0,Y tế,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101930,1018,2026-03-05,21,314000.0,Giải trí,Siêu thị,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101931,1097,2026-01-07,15,119600.0,Điện tử,Dịch vụ tiện ích,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101932,1167,2026-03-05,12,233700.0,Hóa đơn,Dịch vụ tiện ích,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101933,1191,2026-03-07,12,117200.0,Điện tử,Cửa hàng điện tử,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101934,1030,2026-01-17,20,174300.0,Hóa đơn,Dịch vụ tiện ích,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX101935,1033,2026-03-18,11,993300.0,Điện tử,Cửa hàng điện tử,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101936,1075,2026-02-17,9,235200.0,Y tế,Nhà thuốc,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị mới
+TX101937,1111,2026-02-12,16,95800.0,Ăn uống,Cửa hàng trực tuyến,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101938,1192,2026-03-07,22,249600.0,Giải trí,Cửa hàng điện tử,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101939,1042,2026-02-15,9,85400.0,Điện tử,Taxi,Đà Nẵng,Ví điện tử,Thiết bị mới
+TX101940,1033,2026-02-19,11,95000.0,Ăn uống,Dịch vụ tiện ích,Đà Nẵng,Tiền mặt,Thiết bị quen thuộc
+TX101941,1051,2026-01-29,14,106100.0,Y tế,Siêu thị,TP. Hồ Chí Minh,Chuyển khoản,Thiết bị quen thuộc
+TX101942,1175,2026-03-25,10,161200.0,Ăn uống,Nhà hàng,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101943,1007,2026-03-29,17,423900.0,Điện tử,Dịch vụ tiện ích,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101944,1077,2026-01-12,11,329800.0,Y tế,Cửa hàng trực tuyến,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101945,1024,2026-03-07,9,317300.0,Mua sắm,Dịch vụ tiện ích,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX101946,1032,2026-01-03,11,101900.0,Y tế,Siêu thị,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101947,1184,2026-02-03,21,150600.0,Ăn uống,Cửa hàng trực tuyến,Hải Phòng,Tiền mặt,Thiết bị quen thuộc
+TX101948,1001,2026-03-29,21,266100.0,Hóa đơn,Rạp chiếu phim,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX101949,1065,2026-01-16,15,141700.0,Điện tử,Dịch vụ tiện ích,Cần Thơ,Thẻ,Thiết bị mới
+TX101950,1184,2026-02-03,13,181000.0,Mua sắm,Cửa hàng điện tử,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101951,1122,2026-01-20,20,299600.0,Mua sắm,Cửa hàng điện tử,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101952,1015,2026-03-07,10,172300.0,Di chuyển,Nhà thuốc,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101953,1094,2026-02-11,17,257700.0,Di chuyển,Siêu thị,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101954,1195,2026-02-23,17,670800.0,Ăn uống,Dịch vụ tiện ích,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101955,1081,2026-03-26,18,195100.0,Hóa đơn,Nhà hàng,TP. Hồ Chí Minh,Tiền mặt,Thiết bị mới
+TX101956,1106,2026-02-16,10,502300.0,Mua sắm,Cửa hàng trực tuyến,Hà Nội,Ví điện tử,Thiết bị mới
+TX101957,1107,2026-03-08,18,325400.0,Ăn uống,Nhà hàng,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101958,1133,2026-01-09,16,78800.0,Mua sắm,Taxi,Cần Thơ,Thẻ,Thiết bị mới
+TX101959,1038,2026-01-20,21,101700.0,Ăn uống,Siêu thị,TP. Hồ Chí Minh,Tiền mặt,Thiết bị quen thuộc
+TX101960,1168,2026-03-27,9,122700.0,Điện tử,Dịch vụ tiện ích,Đà Nẵng,Ví điện tử,Thiết bị quen thuộc
+TX101961,1198,2026-03-19,16,120900.0,Điện tử,Nhà hàng,Hà Nội,Ví điện tử,Thiết bị mới
+TX101962,1029,2026-03-01,20,206500.0,Di chuyển,Dịch vụ tiện ích,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101963,1164,2026-02-04,11,338300.0,Điện tử,Rạp chiếu phim,Cần Thơ,Ví điện tử,Thiết bị mới
+TX101964,1164,2026-01-18,18,529700.0,Hóa đơn,Nhà hàng,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101965,1149,2026-03-18,8,273000.0,Điện tử,Siêu thị,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101966,1075,2026-03-12,18,161000.0,Mua sắm,Nhà thuốc,Hà Nội,Ví điện tử,Thiết bị mới
+TX101967,1094,2026-01-22,16,51200.0,Mua sắm,Rạp chiếu phim,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101968,1168,2026-02-23,10,231100.0,Y tế,Cửa hàng trực tuyến,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101969,1031,2026-02-25,8,224000.0,Mua sắm,Cửa hàng điện tử,Hà Nội,Ví điện tử,Thiết bị quen thuộc
+TX101970,1166,2026-02-12,18,250100.0,Y tế,Nhà hàng,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101971,1185,2026-03-25,10,961000.0,Di chuyển,Cửa hàng điện tử,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101972,1137,2026-01-12,14,524300.0,Di chuyển,Siêu thị,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101973,1069,2026-01-24,7,381100.0,Hóa đơn,Rạp chiếu phim,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101974,1112,2026-01-09,22,112200.0,Y tế,Siêu thị,Hà Nội,Thẻ,Thiết bị quen thuộc
+TX101975,1011,2026-03-04,15,153600.0,Ăn uống,Nhà hàng,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101976,1187,2026-02-27,21,205900.0,Y tế,Taxi,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101977,1069,2026-03-30,9,127800.0,Y tế,Siêu thị,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101978,1012,2026-02-18,10,312300.0,Y tế,Taxi,Cần Thơ,Chuyển khoản,Thiết bị quen thuộc
+TX101979,1159,2026-01-14,16,282400.0,Điện tử,Nhà hàng,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101980,1132,2026-02-10,16,102700.0,Y tế,Siêu thị,Đà Nẵng,Thẻ,Thiết bị quen thuộc
+TX101981,1125,2026-01-08,19,508500.0,Hóa đơn,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101982,1011,2026-03-02,21,236300.0,Hóa đơn,Cửa hàng điện tử,Hải Phòng,Thẻ,Thiết bị quen thuộc
+TX101983,1151,2026-03-02,20,65600.0,Di chuyển,Cửa hàng điện tử,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101984,1128,2026-03-19,9,212200.0,Y tế,Nhà hàng,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101985,1159,2026-01-31,11,267900.0,Di chuyển,Taxi,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101986,1166,2026-01-28,21,434700.0,Giải trí,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101987,1043,2026-01-07,15,173700.0,Ăn uống,Cửa hàng trực tuyến,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101988,1043,2026-02-07,20,392800.0,Di chuyển,Taxi,TP. Hồ Chí Minh,Ví điện tử,Thiết bị mới
+TX101989,1185,2026-02-12,16,250800.0,Mua sắm,Dịch vụ tiện ích,Đà Nẵng,Tiền mặt,Thiết bị mới
+TX101990,1107,2026-03-09,7,87600.0,Hóa đơn,Taxi,Đà Nẵng,Chuyển khoản,Thiết bị quen thuộc
+TX101991,1088,2026-03-09,14,81700.0,Hóa đơn,Cửa hàng trực tuyến,Hải Phòng,Ví điện tử,Thiết bị quen thuộc
+TX101992,1058,2026-01-13,20,482700.0,Y tế,Cửa hàng điện tử,Cần Thơ,Ví điện tử,Thiết bị quen thuộc
+TX101993,1128,2026-01-26,17,508200.0,Hóa đơn,Cửa hàng điện tử,TP. Hồ Chí Minh,Thẻ,Thiết bị quen thuộc
+TX101994,1151,2026-02-16,9,275800.0,Mua sắm,Cửa hàng trực tuyến,TP. Hồ Chí Minh,Ví điện tử,Thiết bị quen thuộc
+TX101995,1001,2026-01-31,10,626800.0,Hóa đơn,Nhà hàng,Hải Phòng,Chuyển khoản,Thiết bị quen thuộc
+TX101996,1111,2026-01-03,20,460900.0,Ăn uống,Dịch vụ tiện ích,Cần Thơ,Thẻ,Thiết bị quen thuộc
+TX101997,1199,2026-03-18,22,355000.0,Y tế,Cửa hàng trực tuyến,Cần Thơ,Tiền mặt,Thiết bị quen thuộc
+TX101998,1057,2026-03-07,19,116200.0,Y tế,Cửa hàng điện tử,Hải Phòng,Chuyển khoản,Thiết bị mới
+TX101999,1057,2026-02-16,8,739200.0,Mua sắm,Taxi,Hải Phòng,Tiền mặt,Thiết bị quen thuộc

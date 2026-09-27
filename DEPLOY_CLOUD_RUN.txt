@@ -1,0 +1,13 @@
+INVESTIGATION CENTER AI - DEPLOY GOOGLE CLOUD RUN
+
+1) Open Google Cloud Console and create/select a project with billing enabled.
+2) Open Cloud Shell.
+3) Upload this ZIP to Cloud Shell, then:
+   unzip INVESTIGATION_CENTER_AI_CLOUD_RUN_READY.zip
+   cd INVESTIGATION_CENTER_AI
+4) Deploy:
+   gcloud run deploy investigation-center-ai --source . --region asia-southeast1 --allow-unauthenticated
+5) If prompted to enable APIs/repository, answer y.
+6) When deployment finishes, copy the Service URL ending in run.app.
+
+The Dockerfile already configures Streamlit to listen on 0.0.0.0:8080 for Cloud Run.
