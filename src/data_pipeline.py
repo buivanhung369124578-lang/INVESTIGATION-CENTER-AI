@@ -155,7 +155,7 @@ def read_csv_flexible(uploaded_bytes: bytes) -> pd.DataFrame:
     raise ValueError("Không thể đọc file CSV. Hãy kiểm tra encoding hoặc định dạng file.")
 
 
-def read_uploaded_file(uploaded_file: Any) -> pd.DataFrame:
+def read_uploaded_file(uploaded_file: Any, *args: Any, **kwargs: Any) -> pd.DataFrame:
     """Read a Streamlit UploadedFile or file-like object as CSV/XLSX/XLS.
 
     The public app calls this helper directly; keeping it here preserves the
