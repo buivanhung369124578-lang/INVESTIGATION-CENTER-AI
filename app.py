@@ -12,7 +12,7 @@ from src.data_pipeline import (
     CANONICAL_COLUMNS,
     generate_demo_data,
     prepare_data,
-    read_csv_flexible,
+    read_uploaded_file,
 )
 from src.model_engine import (
     CATEGORICAL_FEATURES,
@@ -178,11 +178,11 @@ if source == "Dữ liệu mẫu":
     demo_seed = st.sidebar.number_input("Seed dữ liệu mẫu", min_value=1, max_value=9999, value=42, step=1)
     raw_input = generate_demo_data(int(demo_rows), int(demo_seed))
 else:
-    uploaded = st.sidebar.file_uploader("Tải file CSV", type=["csv"], help="Hệ thống tự nhận diện một số tên cột tiếng Việt/Anh như Giá trị → amount.")
+    uploaded = st.sidebar.file_uploader("Tải dữ liệu", type=["csv", "xlsx", "xls"], help="Hệ thống tự nhận diện cột tiếng Việt/Anh và tự chuẩn hóa dữ liệu giao dịch.")
     raw_input = None
     if uploaded is not None:
         try:
-            raw_input = read_csv_flexible(uploaded.getvalue())
+            raw_input = read_uploaded_file(uploaded.getvalue(), uploaded.name)
         except Exception as exc:
             st.sidebar.error(f"Không thể đọc CSV: {exc}")
 
@@ -206,11 +206,26 @@ with st.spinner("Đang kiểm tra dữ liệu và chuẩn hóa schema…"):
     data, quality = cached_prepare(raw_input)
 
 if data is None:
-    st.error("Không thể phân tích dataset vì thiếu cột bắt buộc.")
-    st.code("\n".join(CANONICAL_COLUMNS))
+    st.error("Chưa thể phân tích dữ liệu này.")
     if quality.get("missing_columns"):
-        st.error("Thiếu: " + ", ".join(quality["missing_columns"]))
+        st.error("Không tìm thấy trường số tiền/giá trị cần thiết: " + ", ".join(quality["missing_columns"]))
+    st.info("Hệ thống có thể tự nhận dạng nhiều tên cột. File chỉ bắt buộc phải có một cột biểu diễn số tiền/giá trị để phát hiện bất thường.")
     st.stop()
+
+if source == "Tải CSV":
+    with st.expander("🔎 Kiểm tra dữ liệu đầu vào", expanded=True):
+        c1, c2, c3 = st.columns(3)
+        c1.metric("Dòng đầu vào", f"{quality.get('input_rows', 0):,}")
+        c2.metric("Dòng hợp lệ", f"{quality.get('valid_rows', 0):,}")
+        c3.metric("Dòng loại", f"{quality.get('dropped_rows', 0):,}")
+        renamed = quality.get("renamed_columns", {})
+        inferred = quality.get("inferred_columns", [])
+        if renamed:
+            st.caption("Cột tự nhận diện: " + "; ".join(f"{k} → {v}" for k, v in renamed.items()))
+        if inferred:
+            st.caption("Cột hệ thống tự bổ sung: " + ", ".join(inferred))
+        for warning in quality.get("warnings", []):
+            st.warning(warning)
 
 with st.spinner("AI đang xây dựng baseline hành vi và chạy Isolation Forest…"):
     result, model_info = cached_detection(data, float(contamination), int(n_estimators), int(seed))
